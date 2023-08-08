@@ -27,3 +27,8 @@
 | Oct-23 | Perozzi       | 3/3   | $ 61306.30 |
 | Oct-23 | Ceramisur     | 3/6   | $ 65176.98 |
 
+##### Agosto de 2023
+
+- El mes de **Agosto de 2023   pague $ 222808.67
+- pague la ultima cuota de **Electroworld por $ 1611.05
+- 

@@ -1,3 +1,5 @@
+## El puntero
+
 - capitulo 6  https://www.youtube.com/watch?v=8OG15Rf2L3M&ab_channel=eltrece
 - capitulo 7 https://www.youtube.com/watch?v=w2Y1zM72JoM&ab_channel=eltrece
 - capitulo 8 https://www.youtube.com/watch?v=B_2AULlPiPw&ab_channel=eltrece
@@ -21,4 +23,4 @@
 - capitulo 26 https://www.youtube.com/watch?v=ujcrtK1tEGI&ab_channel=eltrece
 - capitulo 27 https://www.youtube.com/watch?v=tJA7rt_0DFA&ab_channel=eltrece
 - capitulo 28 https://www.youtube.com/watch?v=q3g6sE7qhaQ&ab_channel=eltrece
-- 
+- capitulo 29 https://www.youtube.com/watch?v=fMTTVmKU8ds&ab_channel=eltrece
