@@ -24,3 +24,5 @@
 - capitulo 27 https://www.youtube.com/watch?v=tJA7rt_0DFA&ab_channel=eltrece
 - capitulo 28 https://www.youtube.com/watch?v=q3g6sE7qhaQ&ab_channel=eltrece
 - capitulo 29 https://www.youtube.com/watch?v=fMTTVmKU8ds&ab_channel=eltrece
+- capitulo 30 https://youtu.be/ZqO-xIiWRXc
+- 

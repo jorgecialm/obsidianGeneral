@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b79712bf5d0bf54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso git - GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ec8f88c8dc7c89a3",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "el-puntero.md",
+                "file": "Curso git - GitHub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "el-puntero.md",
+                "file": "Curso git - GitHub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "el-puntero.md"
+                "file": "Curso git - GitHub.md"
               }
             }
           },
@@ -156,10 +170,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f09e8c80a57f543f",
+  "active": "9b79712bf5d0bf54",
   "lastOpenFiles": [
-    "visa-Icbc.md",
     "el-puntero.md",
+    "Curso git - GitHub.md",
+    "visa-Icbc.md",
     "2023-07-30.md",
     "Visa Icbc.md",
     "El puntero.md",
