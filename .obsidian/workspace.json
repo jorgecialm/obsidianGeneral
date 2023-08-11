@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso git - GitHub.md",
+                "file": "salud/Oftalmología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso git - GitHub.md",
+                "file": "salud/Oftalmología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso git - GitHub.md"
+                "file": "salud/Oftalmología.md"
               }
             }
           },
@@ -169,15 +169,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b79712bf5d0bf54",
+  "active": "64900c56676ed69a",
   "lastOpenFiles": [
+    "Curso git - GitHub.md",
+    "salud/Oftalmología.md",
     "salud",
     "Imagenes/Captura.PNG",
     "Imagenes",
     "Nueva carpeta",
     "Salud",
     "visa-Icbc.md",
-    "Curso git - GitHub.md",
     "el-puntero.md",
     "2023-07-30.md",
     "Visa Icbc.md",
