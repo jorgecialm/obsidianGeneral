@@ -31,4 +31,4 @@
 
 - El mes de **Agosto de 2023   pague $ 222808.67
 - pague la ultima cuota de **Electroworld por $ 1611.05
-- 
+- veremos el próximo mes 

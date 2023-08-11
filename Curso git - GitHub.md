@@ -4,7 +4,7 @@
 - video 4 : GIT ADD + GIT COMMIT + GIT PUSH https://youtu.be/osO_eYMIKxM
 - video 5 : GIT CLONE + GIT PULL https://youtu.be/osO_eYMIKxM
 - video 6 : Todo lo que tenés que saber sobre branches (ramas) https://youtu.be/gjKKtQVVCZU
-- video 7 :  GIT DIFF Y MERGE- Trabajando con Branches  (ramas)
+- video 7 :  GIT DIFF Y MERGE- Trabajando con Branches  (ramas) https://www.youtube.com/watch?v=W8rwULnu9nA&ab_channel=TodoCode
 - video 8 : GITHUB ACCESS TOKEN- Configuración paso a paso en español
 ------
 ### Anotaciones de los videos:

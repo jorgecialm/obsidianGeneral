@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ec8f88c8dc7c89a3",
@@ -172,9 +171,10 @@
   },
   "active": "9b79712bf5d0bf54",
   "lastOpenFiles": [
-    "el-puntero.md",
-    "Curso git - GitHub.md",
+    "Salud",
     "visa-Icbc.md",
+    "Curso git - GitHub.md",
+    "el-puntero.md",
     "2023-07-30.md",
     "Visa Icbc.md",
     "El puntero.md",
