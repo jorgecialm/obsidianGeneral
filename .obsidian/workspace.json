@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "600cafa1f61ee0ba",
+        "id": "7d3a74e3f95a8508",
         "type": "tabs",
         "children": [
           {
-            "id": "f09e8c80a57f543f",
+            "id": "19d1775f03d80dfc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "el-puntero.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b79712bf5d0bf54",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso git - GitHub.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "calibre-view",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "salud/Oftalmología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "salud/Oftalmología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "salud/Oftalmología.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,20 +148,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64900c56676ed69a",
+  "active": "19d1775f03d80dfc",
   "lastOpenFiles": [
-    "Curso git - GitHub.md",
+    "Pdfs/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf",
+    "Imagenes/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf.crdownload",
+    "Pdfs/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf",
+    "Danzas folcloricas.md",
+    "Pdfs",
+    "Imagenes/GATO CUYANO.jpg",
+    "Imagenes/GATO CUYANO.jpg.crdownload",
+    "Imagenes/Escondido.gif",
+    "Imagenes/gato.gif",
+    "Imagenes/gato.gif.crdownload",
+    "Imagenes/coreo-escondidoweb.jpg",
+    "Imagenes/esquina-del-remedioweb.jpg",
+    "Imagenes/esquina-del-escondidoweb.jpg",
+    "Imagenes/Escondido.gif.crdownload",
+    "Pasted image 20230813102236.png",
+    "Imagenes/esquina-del-remedioweb.jpg.crdownload",
+    "Imagenes/esquina-del-escondidoweb.jpg.crdownload",
+    "Imagenes/coreografia-zambajpg.webp",
+    "Imagenes/coreografia-zambajpg.webp.crdownload",
+    "Series y peliculas/el-puntero.md",
+    "Imagenes/zamba03.webp",
+    "Imagenes/zamba03.webp.crdownload",
+    "2023-08-12.md",
+    "Tareas.md",
+    "Formulas para establecer y alcanzar metas.md",
+    "cursos/todocode/Java principiantes.md",
+    "cursos/todocode/Curso git - GitHub.md",
     "salud/Oftalmología.md",
-    "salud",
     "Imagenes/Captura.PNG",
-    "Imagenes",
-    "Nueva carpeta",
-    "Salud",
-    "visa-Icbc.md",
-    "el-puntero.md",
-    "2023-07-30.md",
+    "Tarjeta de crédito/visa-Icbc.md",
+    "Anotaciones diarias/2023-07-30.md",
     "Visa Icbc.md",
     "El puntero.md",
-    "2023-07-22.md"
+    "Anotaciones diarias/2023-07-22.md"
   ]
 }

@@ -1,0 +1,3 @@
+- [ ] Sacar turno cambio de aceite
+- [ ] Limpiar el patio 
+- [ ] Votar 
