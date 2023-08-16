@@ -1,3 +1,5 @@
-- [ ] Sacar turno cambio de aceite
-- [ ] Limpiar el patio 
-- [ ] Votar 
+- [ ] hacer compras para llevar a la casa de Lucas 
+- [ ] Ir a la casa de Lucas 
+- [ ] Afeitarme
+- [ ] bañarme
+- [ ] cambiarme

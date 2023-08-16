@@ -28,3 +28,6 @@
 - capitulo 31
 - capitulo 32 https://www.youtube.com/watch?v=OlnHBclr4r4&t=1286s&ab_channel=eltrece
 - capitulo 33 https://www.youtube.com/watch?v=j1qhfynqSOQ&ab_channel=eltrece
+- capitulo 34 https://www.youtube.com/watch?v=FNyVxjD42Zk
+- capitulo 35 https://www.youtube.com/watch?v=WPX2S2kkJO0
+- 

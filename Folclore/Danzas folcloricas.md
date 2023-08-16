@@ -7,7 +7,7 @@ Amorosa, apasionada, una de las danzas de galanteo más representativas del folk
 
 Se utilizan **pasos especiales** para bailar zamba: un paso simple que consiste en caminar, un paso de zamba o paso cruzado y un paso con punteo. Existe una coreografía que sirve como guía para el desarrollo de la danza, aunque habitualmente **la estructura estricta se rompe y puede variar creativamente.**
 
-### La coreografía establecida es la siguiente:[nextpage title=»Coreografía de Zamba»]
+### La coreografía establecida es la siguiente: 
 
 1. Vuelta entera (8 compases): los bailarines dan la vuelta en 16 pasos, encontrándose en el centro. Los primeros 4 u 8 con paso caminado y los demás con paso de zamba.
     
@@ -66,4 +66,4 @@ Se repite la primera parte, comenzando de la base contraria
 4. Zapateo y zarandeo 8c
 5. Media vuelta 4c
 6. Zapateo y zarandeo 
-7. Giro y coronacion 
+7. Giro y coronación 

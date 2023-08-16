@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7d3a74e3f95a8508",
+        "id": "f7649a3a54fe9b4b",
         "type": "tabs",
         "children": [
           {
-            "id": "19d1775f03d80dfc",
+            "id": "19d0db3d0f00929e",
             "type": "leaf",
             "state": {
-              "type": "calibre-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SERIES Y PELICULAS/el-puntero.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SERIES Y PELICULAS/el-puntero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SERIES Y PELICULAS/el-puntero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SERIES Y PELICULAS/el-puntero.md"
+              }
             }
           },
           {
@@ -148,12 +156,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19d1775f03d80dfc",
+  "active": "64900c56676ed69a",
   "lastOpenFiles": [
+    "CURSOS/todocode/Java principiantes.md",
+    "Anotaciones diarias/2023-08-16.md",
+    "Anotaciones diarias/2023-08-15.md",
+    "SERIES Y PELICULAS/el-puntero.md",
+    "Folclore/Danzas folcloricas.md",
+    "Pasted image 20230813102236.png",
+    "CURSOS/todocode/Curso git - GitHub.md",
+    "Anotaciones diarias/2023-08-12.md",
+    "Tareas.md",
     "Pdfs/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf",
     "Imagenes/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf.crdownload",
     "Pdfs/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf",
-    "Danzas folcloricas.md",
     "Pdfs",
     "Imagenes/GATO CUYANO.jpg",
     "Imagenes/GATO CUYANO.jpg.crdownload",
@@ -164,19 +180,12 @@
     "Imagenes/esquina-del-remedioweb.jpg",
     "Imagenes/esquina-del-escondidoweb.jpg",
     "Imagenes/Escondido.gif.crdownload",
-    "Pasted image 20230813102236.png",
     "Imagenes/esquina-del-remedioweb.jpg.crdownload",
     "Imagenes/esquina-del-escondidoweb.jpg.crdownload",
     "Imagenes/coreografia-zambajpg.webp",
     "Imagenes/coreografia-zambajpg.webp.crdownload",
-    "Series y peliculas/el-puntero.md",
     "Imagenes/zamba03.webp",
-    "Imagenes/zamba03.webp.crdownload",
-    "2023-08-12.md",
-    "Tareas.md",
     "Formulas para establecer y alcanzar metas.md",
-    "cursos/todocode/Java principiantes.md",
-    "cursos/todocode/Curso git - GitHub.md",
     "salud/Oftalmología.md",
     "Imagenes/Captura.PNG",
     "Tarjeta de crédito/visa-Icbc.md",
