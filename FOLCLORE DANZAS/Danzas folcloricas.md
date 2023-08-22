@@ -67,3 +67,11 @@ Se repite la primera parte, comenzando de la base contraria
 5. Media vuelta 4c
 6. Zapateo y zarandeo 
 7. Giro y coronación 
+
+## Chacarera  simple
+![[Chacarera_simple.png]]
+
+## Chacarera doble
+![[Chacarera_doble.png]]
+## Huella
+![[huella.gif]]

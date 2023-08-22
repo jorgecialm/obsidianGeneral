@@ -1,5 +1,25 @@
-- [ ] hacer compras para llevar a la casa de Lucas 
-- [ ] Ir a la casa de Lucas 
+## Casa
+- [ ] ir a perozzi o llamar para reparar el el horno
 - [ ] Afeitarme
+- [ ] cortarme las uñas
 - [ ] bañarme
-- [ ] cambiarme
+- [ ] acomodar el quincho 
+- [ ] acomodar el galpon
+
+
+## Estudio
+- [ ] hacer curso de Obsidian 
+- [ ] hacer curso de java
+
+
+
+## Canto
+- [ ] Preparar canciones para la clase de canto
+
+
+## Folclore
+- [ ] practicar el malambo
+- [ ] practicar las danzas 
+
+## Ensamble de folclore
+- [ ] Practicar las canciones para el miércoles

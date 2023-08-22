@@ -1,0 +1,12 @@
+- Nueva
+- [ ] otra
+- [ ] mas
+- [ ] de
+- [ ] casillas 
+- [ ] **Negras
+- [ ] ~~tachado
+- [ ] ==resaltado
+- [ ] _cursiva
+- [ ] _con una sola escribe en cursiva
+- [ ] ***Ahora en negrita cursiva
+- [ ] 

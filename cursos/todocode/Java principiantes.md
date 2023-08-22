@@ -5,6 +5,8 @@
 - Video 5 : condicional simple if https://www.youtube.com/watch?v=tE-a1tH-Iq4&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=5
 - Video 6 : Condicional simple IF + ELSE https://www.youtube.com/watch?v=wMSKQb6-iEk&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=6
 - Video 7 : condicional con Switch https://www.youtube.com/watch?v=HEOdd2RnAko&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=8
+- Video 8 : ejercicio integrador de condicionales https://www.youtube.com/watch?v=0fcO3VE_VwE&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=9
+- Video 9 : While estructuras repetitivas https://www.youtube.com/watch?v=Vl9asbaZFZg&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=10
 
 
 

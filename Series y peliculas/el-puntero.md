@@ -30,4 +30,7 @@
 - capitulo 33 https://www.youtube.com/watch?v=j1qhfynqSOQ&ab_channel=eltrece
 - capitulo 34 https://www.youtube.com/watch?v=FNyVxjD42Zk
 - capitulo 35 https://www.youtube.com/watch?v=WPX2S2kkJO0
-- 
+- capitulo 36
+- capitulo 37 https://www.youtube.com/watch?v=4pbotQkUz14&t=15s
+- capitulo 38 https://www.youtube.com/watch?v=91RbJrI6pRY&t=2s
+- capitulo 39 https://www.youtube.com/watch?v=SjVJ8FADurk

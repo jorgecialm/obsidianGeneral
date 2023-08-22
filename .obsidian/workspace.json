@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7649a3a54fe9b4b",
+        "id": "308778a3b7f22921",
         "type": "tabs",
         "children": [
           {
-            "id": "19d0db3d0f00929e",
+            "id": "333e19ac92a91e3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SERIES Y PELICULAS/el-puntero.md",
+                "file": "FOLCLORE DANZAS/Danzas folcloricas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SERIES Y PELICULAS/el-puntero.md",
+                "file": "FOLCLORE DANZAS/Danzas folcloricas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SERIES Y PELICULAS/el-puntero.md",
+                "file": "FOLCLORE DANZAS/Danzas folcloricas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SERIES Y PELICULAS/el-puntero.md"
+                "file": "FOLCLORE DANZAS/Danzas folcloricas.md"
               }
             }
           },
@@ -134,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "78f7ec081b1ddfc3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -156,42 +164,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64900c56676ed69a",
+  "active": "333e19ac92a91e3c",
   "lastOpenFiles": [
-    "CURSOS/todocode/Java principiantes.md",
-    "Anotaciones diarias/2023-08-16.md",
-    "Anotaciones diarias/2023-08-15.md",
+    "FOLCLORE FUSION/Letras de las canciones.md",
+    "salud/Oftalmología.md",
     "SERIES Y PELICULAS/el-puntero.md",
-    "Folclore/Danzas folcloricas.md",
-    "Pasted image 20230813102236.png",
-    "CURSOS/todocode/Curso git - GitHub.md",
-    "Anotaciones diarias/2023-08-12.md",
+    "Tarjeta de crédito/visa-Icbc.md",
     "Tareas.md",
-    "Pdfs/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf",
-    "Imagenes/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf.crdownload",
-    "Pdfs/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf",
-    "Pdfs",
+    "Nueva nota.md",
+    "2023-08-21.md",
+    "ADJUNTOS/LETRAS DE CANCIONES/sirviñaco.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/vienes y te vas.pdf",
+    "ADJUNTOS/Pdfs/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/el tinku.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Naranjitay.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Ojos azules.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Señora chichera.pdf",
+    "ANOTACIONES DIARIAS/2023-08-18.md",
+    "CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
+    "ANOTACIONES DIARIAS/Índice.md",
+    "CURSOS/SniferL4bs/Curso de Obsidian",
+    "CURSOS/SniferL4bs",
+    "Indice",
+    "CURSOS/todocode/Java principiantes.md",
+    "ANOTACIONES DIARIAS/2023-08-17.md",
+    "CURSOS/todocode/Curso git - GitHub.md",
+    "FOLCLORE DANZAS/Danzas folcloricas.md",
+    "Imagenes/huella.gif",
+    "Imagenes/Chacarera_doble.png",
+    "Imagenes/!Chacarera_simple.png.md",
+    "Imagenes/Chacarera_simple.png",
+    "ANOTACIONES DIARIAS/2023-08-16.md",
+    "ANOTACIONES DIARIAS/2023-08-15.md",
+    "Pasted image 20230813102236.png",
+    "ANOTACIONES DIARIAS/2023-08-12.md",
     "Imagenes/GATO CUYANO.jpg",
-    "Imagenes/GATO CUYANO.jpg.crdownload",
     "Imagenes/Escondido.gif",
     "Imagenes/gato.gif",
-    "Imagenes/gato.gif.crdownload",
     "Imagenes/coreo-escondidoweb.jpg",
     "Imagenes/esquina-del-remedioweb.jpg",
     "Imagenes/esquina-del-escondidoweb.jpg",
-    "Imagenes/Escondido.gif.crdownload",
-    "Imagenes/esquina-del-remedioweb.jpg.crdownload",
-    "Imagenes/esquina-del-escondidoweb.jpg.crdownload",
-    "Imagenes/coreografia-zambajpg.webp",
-    "Imagenes/coreografia-zambajpg.webp.crdownload",
-    "Imagenes/zamba03.webp",
-    "Formulas para establecer y alcanzar metas.md",
-    "salud/Oftalmología.md",
-    "Imagenes/Captura.PNG",
-    "Tarjeta de crédito/visa-Icbc.md",
-    "Anotaciones diarias/2023-07-30.md",
+    "ADJUNTOS/Formulas para establecer y alcanzar metas.md",
+    "ANOTACIONES DIARIAS/2023-07-30.md",
     "Visa Icbc.md",
     "El puntero.md",
-    "Anotaciones diarias/2023-07-22.md"
+    "ANOTACIONES DIARIAS/2023-07-22.md"
   ]
 }
