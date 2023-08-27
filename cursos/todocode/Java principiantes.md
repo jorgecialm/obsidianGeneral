@@ -7,6 +7,13 @@
 - Video 7 : condicional con Switch https://www.youtube.com/watch?v=HEOdd2RnAko&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=8
 - Video 8 : ejercicio integrador de condicionales https://www.youtube.com/watch?v=0fcO3VE_VwE&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=9
 - Video 9 : While estructuras repetitivas https://www.youtube.com/watch?v=Vl9asbaZFZg&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=10
+- Videos 10: Bucles infinitos con estructuras repetitivas https://www.youtube.com/watch?v=TmIg27se2yk&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=11
+- Videos 11: Estructuras For https://www.youtube.com/watch?v=V7U96RG6MPE&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=12
+- Videos 12 : Vectores : Declaración y asignación https://www.youtube.com/watch?v=Oie_y3Fp-N0&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=13
+- Video 13 :  Vectores :Recorrido y carga https://www.youtube.com/watch?v=DEK-tiJLa4Y&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=14
+- Video 14 : Matrices declaración y asignación  https://www.youtube.com/watch?v=eP89Ay-rktw&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=15
+- Video 15: Matrices Recorrido y carga https://www.youtube.com/watch?v=Dpni7eA3Eiw&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=16
+- Video 16 : Vectores + if + for https://www.youtube.com/watch?v=C5u72RuvrY4&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=17
 
 
 

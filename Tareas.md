@@ -1,10 +1,8 @@
 ## Casa
 - [ ] ir a perozzi o llamar para reparar el el horno
-- [ ] Afeitarme
-- [ ] cortarme las uñas
-- [ ] bañarme
 - [ ] acomodar el quincho 
-- [ ] acomodar el galpon
+- [ ] acomodar el galpón
+- [ ] Armar plan de acción para lograr mis objetivos 
 
 
 ## Estudio

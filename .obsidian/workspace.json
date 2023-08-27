@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "308778a3b7f22921",
-        "type": "tabs",
+        "id": "cd48f4ee8c8bf16b",
+        "type": "split",
         "children": [
           {
-            "id": "333e19ac92a91e3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FOLCLORE DANZAS/Danzas folcloricas.md",
-                "mode": "source",
-                "source": false
+            "id": "de7b26aebf3dd02f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "14ce7c35f29d3644",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Tareas.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "62ba8ffbf1f7d1ca",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c627bd2604dc72bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2023-08-24.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FOLCLORE DANZAS/Danzas folcloricas.md",
+                "file": "Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FOLCLORE DANZAS/Danzas folcloricas.md",
+                "file": "Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,12 +145,20 @@
             }
           },
           {
+            "id": "f37fa38a9125825c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
             "id": "32cf6ee7fc1ad0a6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "FOLCLORE DANZAS/Danzas folcloricas.md"
+                "file": "Tareas.md"
               }
             }
           },
@@ -138,10 +171,10 @@
             }
           },
           {
-            "id": "78f7ec081b1ddfc3",
+            "id": "27469d33be9feba4",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "full-calendar-sidebar-view",
               "state": {}
             }
           }
@@ -150,64 +183,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian42-brat:BRAT": false,
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Empezar/Parar de grabar": false
     }
   },
-  "active": "333e19ac92a91e3c",
+  "active": "14ce7c35f29d3644",
   "lastOpenFiles": [
-    "FOLCLORE FUSION/Letras de las canciones.md",
-    "salud/Oftalmología.md",
-    "SERIES Y PELICULAS/el-puntero.md",
-    "Tarjeta de crédito/visa-Icbc.md",
-    "Tareas.md",
-    "Nueva nota.md",
-    "2023-08-21.md",
-    "ADJUNTOS/LETRAS DE CANCIONES/sirviñaco.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/vienes y te vas.pdf",
-    "ADJUNTOS/Pdfs/Danzas Tradicionales Argentinas -una nueva propuesta- Hector Arico- 2da edicion.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/el tinku.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/Naranjitay.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/Ojos azules.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/Señora chichera.pdf",
-    "ANOTACIONES DIARIAS/2023-08-18.md",
-    "CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
-    "ANOTACIONES DIARIAS/Índice.md",
-    "CURSOS/SniferL4bs/Curso de Obsidian",
-    "CURSOS/SniferL4bs",
-    "Indice",
+    "2023-08-24.md",
     "CURSOS/todocode/Java principiantes.md",
-    "ANOTACIONES DIARIAS/2023-08-17.md",
-    "CURSOS/todocode/Curso git - GitHub.md",
-    "FOLCLORE DANZAS/Danzas folcloricas.md",
+    "CAMBIA HOY 2023/Para leer.md",
+    "CAMBIA HOY 2023/Curso para bajar de peso.md",
+    "Imagenes/SharedScreenshot.jpg",
+    "Imagenes/Captura de pantalla 2023-08-25 143700.png",
+    "CAMBIA HOY 2023/Curso coaching nutricional.md",
+    "PARA LEER",
+    "ANOTACIONES DIARIAS/2023-08-23.md",
+    "Decisiones y procedimientos.md",
+    "COACHING NUTRICIONAL",
+    "Imagenes/rueda Alimentacion.gif",
+    "Imagenes/rueda Alimentacion.gif.crdownload",
+    "Tareas.md",
+    "ADJUNTOS/Factura silla de barra.pdf",
+    "FOLCLORE FUSION/Letras de las canciones.md",
+    "Letras de canciones.md",
+    "ADJUNTOS/LETRAS DE CANCIONES/Luna vallista.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/lu18216a12m7c.tmp",
+    "ADJUNTOS/LETRAS DE CANCIONES/Naranjitay.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Letras de canciones.md",
+    "CANTO",
+    "ADJUNTOS/LETRAS DE CANCIONES/lu18216a12m72.tmp",
+    "ADJUNTOS/LETRAS DE CANCIONES/lu18216a12m6z.tmp",
+    "COMPRAS/Compras realizadas.md",
+    "MEDICACION/Sertralina.md",
+    "COMPRAS/[[30717033872_006_00001_00000616.pdf]].md",
+    "COMPRAS/[30717033872_006_00001_00000616.pdf.md",
+    "CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
+    "CALENDAR/ACTIVIDADES/2023-08-23 tareas.md",
+    "CALENDAR/ACTIVIDADES/(Every U) folclore.md",
+    "CALENDAR/ACTIVIDADES/(Every F) folclore.md",
+    "CALENDAR/ACTIVIDADES/(Every U) Folclore.md",
+    "CALENDAR/ACTIVIDADES/(Every W) Folclore Fusion.md",
+    "Nueva nota.md",
+    "Naranjitay.md",
+    "ANOTACIONES DIARIAS/2023-08-22.md",
+    "Ojos azules.md",
+    "Imagenes/zamba03.webp",
     "Imagenes/huella.gif",
     "Imagenes/Chacarera_doble.png",
-    "Imagenes/!Chacarera_simple.png.md",
     "Imagenes/Chacarera_simple.png",
-    "ANOTACIONES DIARIAS/2023-08-16.md",
-    "ANOTACIONES DIARIAS/2023-08-15.md",
     "Pasted image 20230813102236.png",
-    "ANOTACIONES DIARIAS/2023-08-12.md",
     "Imagenes/GATO CUYANO.jpg",
-    "Imagenes/Escondido.gif",
-    "Imagenes/gato.gif",
-    "Imagenes/coreo-escondidoweb.jpg",
-    "Imagenes/esquina-del-remedioweb.jpg",
-    "Imagenes/esquina-del-escondidoweb.jpg",
-    "ADJUNTOS/Formulas para establecer y alcanzar metas.md",
-    "ANOTACIONES DIARIAS/2023-07-30.md",
-    "Visa Icbc.md",
-    "El puntero.md",
-    "ANOTACIONES DIARIAS/2023-07-22.md"
+    "Imagenes/Escondido.gif"
   ]
 }
