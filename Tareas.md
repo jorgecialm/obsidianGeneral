@@ -1,18 +1,18 @@
 ## Casa
-- [ ] ir a perozzi o llamar para reparar el el horno
-- [ ] acomodar el quincho 
-- [ ] acomodar el galpón
+- [x] ir a perozzi o llamar para reparar el el horno
+- [x] acomodar el quincho 
+- [x] acomodar el galpón
 - [ ] Armar plan de acción para lograr mis objetivos 
 
 
 ## Estudio
-- [ ] hacer curso de Obsidian 
-- [ ] hacer curso de java
+- [x] hacer curso de Obsidian 
+- [x] hacer curso de java
 
 
 
 ## Canto
-- [ ] Preparar canciones para la clase de canto
+- [x] Preparar canciones para la clase de canto
 
 
 ## Folclore
@@ -20,4 +20,4 @@
 - [ ] practicar las danzas 
 
 ## Ensamble de folclore
-- [ ] Practicar las canciones para el miércoles
+- [x] Practicar las canciones para el miércoles

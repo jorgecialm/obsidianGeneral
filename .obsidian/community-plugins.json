@@ -1,10 +1,10 @@
 [
   "table-editor-obsidian",
-  "obsidian-calibre-plugin",
   "calendar",
   "waypoint",
   "obsidian-kanban",
   "obsidian-fullscreen-plugin",
   "obsidian42-brat",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "obsidian-calibre-plugin"
 ]

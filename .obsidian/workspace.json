@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cd48f4ee8c8bf16b",
-        "type": "split",
+        "id": "b32ee6ef0678a37c",
+        "type": "tabs",
         "children": [
           {
-            "id": "de7b26aebf3dd02f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "14ce7c35f29d3644",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Tareas.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "8421fc62616b6dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ANOTACIONES DIARIAS/2023-08-28.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "62ba8ffbf1f7d1ca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c627bd2604dc72bc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2023-08-24.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "canc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tareas.md",
+                "file": "ANOTACIONES DIARIAS/2023-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tareas.md",
+                "file": "ANOTACIONES DIARIAS/2023-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tareas.md"
+                "file": "ANOTACIONES DIARIAS/2023-08-28.md"
               }
             }
           },
@@ -183,68 +158,71 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "audio-recorder:Empezar/Parar de grabar": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-calibre-plugin:Calibre": false
     }
   },
-  "active": "14ce7c35f29d3644",
+  "active": "8421fc62616b6dde",
   "lastOpenFiles": [
-    "2023-08-24.md",
-    "CURSOS/todocode/Java principiantes.md",
-    "CAMBIA HOY 2023/Para leer.md",
+    "SALUD/Descenso de peso.md",
+    "Los-7-Habitos-de-las-Personas-Altamente-Efectivas.pdf",
+    "CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
+    "ANOTACIONES DIARIAS/2023-08-23.md",
+    "ANOTACIONES DIARIAS/2023-08-24.md",
+    "Letras de canciones.md",
+    "ADJUNTOS/LETRAS DE CANCIONES/Letras de canciones.md",
+    "FOLCLORE FUSION/Letras de las canciones.md",
+    "Tareas.md",
+    "COACHING NUTRICIONAL/Curso coaching nutricional.md",
     "CAMBIA HOY 2023/Curso para bajar de peso.md",
+    "2023-08-30.md",
+    "CURSOS/todocode/Java principiantes.md",
+    "TARJETAS DE CREDITO/resumen_cuenta_visa_Jul_2023.pdf",
+    "PARA LEER/Para leer.md",
+    "2023-08-29.md",
+    "ANOTACIONES DIARIAS/2023-08-28.md",
+    "ADJUNTOS/LETRAS DE CANCIONES/sirviñaco.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/vienes y te vas.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/el tinku.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Señora chichera.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Naranjitay.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Ojos azules.pdf",
+    "MEDICACION/Sertralina.md",
+    "Imagenes/Captura1.PNG",
+    "SALUD/Oftalmología.md",
+    "ANOTACIONES DIARIAS/Índice.md",
+    "ADJUNTOS/Formulas para establecer y alcanzar metas.md",
+    "ADJUNTOS/Factura silla de barra.pdf",
+    "ADJUNTOS/Danzas folcloricas.pdf",
+    "ANOTACIONES DIARIAS/2023-08-27.md",
+    "ANOTACIONES DIARIAS/2023-08-26.md",
+    "ANOTACIONES DIARIAS/2023-08-25.md",
     "Imagenes/SharedScreenshot.jpg",
     "Imagenes/Captura de pantalla 2023-08-25 143700.png",
-    "CAMBIA HOY 2023/Curso coaching nutricional.md",
-    "PARA LEER",
-    "ANOTACIONES DIARIAS/2023-08-23.md",
     "Decisiones y procedimientos.md",
-    "COACHING NUTRICIONAL",
     "Imagenes/rueda Alimentacion.gif",
-    "Imagenes/rueda Alimentacion.gif.crdownload",
-    "Tareas.md",
-    "ADJUNTOS/Factura silla de barra.pdf",
-    "FOLCLORE FUSION/Letras de las canciones.md",
-    "Letras de canciones.md",
-    "ADJUNTOS/LETRAS DE CANCIONES/Luna vallista.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/lu18216a12m7c.tmp",
-    "ADJUNTOS/LETRAS DE CANCIONES/Naranjitay.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/Letras de canciones.md",
-    "CANTO",
-    "ADJUNTOS/LETRAS DE CANCIONES/lu18216a12m72.tmp",
-    "ADJUNTOS/LETRAS DE CANCIONES/lu18216a12m6z.tmp",
-    "COMPRAS/Compras realizadas.md",
-    "MEDICACION/Sertralina.md",
+    "ADJUNTOS/COMPRAS/Compras realizadas.md",
     "COMPRAS/[[30717033872_006_00001_00000616.pdf]].md",
     "COMPRAS/[30717033872_006_00001_00000616.pdf.md",
-    "CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
-    "CALENDAR/ACTIVIDADES/2023-08-23 tareas.md",
-    "CALENDAR/ACTIVIDADES/(Every U) folclore.md",
-    "CALENDAR/ACTIVIDADES/(Every F) folclore.md",
-    "CALENDAR/ACTIVIDADES/(Every U) Folclore.md",
-    "CALENDAR/ACTIVIDADES/(Every W) Folclore Fusion.md",
-    "Nueva nota.md",
-    "Naranjitay.md",
-    "ANOTACIONES DIARIAS/2023-08-22.md",
-    "Ojos azules.md",
     "Imagenes/zamba03.webp",
     "Imagenes/huella.gif",
     "Imagenes/Chacarera_doble.png",
     "Imagenes/Chacarera_simple.png",
     "Pasted image 20230813102236.png",
-    "Imagenes/GATO CUYANO.jpg",
-    "Imagenes/Escondido.gif"
+    "Imagenes/GATO CUYANO.jpg"
   ]
 }

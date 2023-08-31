@@ -1,8 +1,8 @@
 {
-  "address": "http://localhost:8081",
+  "address": "http://localhost:8090",
   "displayText": "CALIBRE",
-  "splitDirection": "horizontal",
+  "splitDirection": "vertical",
   "ribbonIcon": "calibre",
-  "hideRibbonIcon": true,
+  "hideRibbonIcon": false,
   "replaceLocalIp": true
 }
