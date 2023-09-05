@@ -5,11 +5,10 @@
   "obsidian-kanban",
   "obsidian-fullscreen-plugin",
   "obsidian42-brat",
-  "obsidian-full-calendar",
   "obsidian-calibre-plugin",
   "obsidian-book-search-plugin",
   "dataview",
   "obsidian-extract-pdf-highlights",
-  "obsidian-git",
-  "git-sync"
+  "git-sync",
+  "obsidian-day-planner"
 ]
