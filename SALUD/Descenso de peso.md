@@ -1,7 +1,7 @@
 - ==La idea es ir bajando de a 1/2 kg por semana 
-- Empece la el ==24/8/23== a comer solo productos naturales 
+- Empecé la el ==24/8/23== a comer solo productos naturales 
 - No consumiendo harinas 
-- y consumiendo muy y casi nada de alcohol
+- y consumiendo muy poco y casi nada de alcohol
 
 
 | Fecha   | Peso    |
@@ -12,3 +12,8 @@
 
 - en la 1° semana tuve un descenso de 2.7 kg
 - 
+
+
+
+
+#peso
