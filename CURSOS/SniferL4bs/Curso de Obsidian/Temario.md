@@ -7,7 +7,7 @@
 7. Planificación de proyectos y sincronización de Google calendar https://www.youtube.com/watch?v=Obz7JVYfeaY&list=PL4TbrTdoQBY_ImFkOk7UbVZpIxmSSozTN&index=8
 8. Como realizar búsquedas en Obsidian  https://www.youtube.com/watch?v=Pr2UQHw8dy4&list=PL4TbrTdoQBY_ImFkOk7UbVZpIxmSSozTN&index=9
 9. Que son los tags https://www.youtube.com/watch?v=Fx1HsRrP8OE&list=PL4TbrTdoQBY_ImFkOk7UbVZpIxmSSozTN&index=10
-10. Gestiona tus libros y resalta con calibre en Obsidian https://www.youtube.com/watch?v=DNnAoZiIuYQ&list=PL4TbrTdoQBY_ImFkOk7UbVZpIxmSSozTN&index=11
+10. Gestiona tus libros y resalta con calibre en Obsidian https://www.youtube.com/watch?v=DNnAoZiIuYQ&list=PL4TbrTdoQBY_ImFkOk7UbVZpIxmSSozTN&index=11 😍
 
 
 ------
