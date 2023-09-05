@@ -15,6 +15,23 @@
 - Video 15: Matrices Recorrido y carga https://www.youtube.com/watch?v=Dpni7eA3Eiw&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=16
 - Video 16 : Vectores + if + For https://www.youtube.com/watch?v=C5u72RuvrY4&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=17
 - Video 17 : Matrices  + if + For https://www.youtube.com/watch?v=QnXOZkPfxG8&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=18
+- Video 18 : Como instalar el modo oscuro en NetBeans https://www.youtube.com/watch?v=uU2-dpEYpnQ&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=19 
+- video 19 :  MODELO DE CAPAS: IGU, LOGICA y PERSISTENCIA 🤓 https://www.youtube.com/watch?v=C6J0TOlCieM&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=20
+- Video 20 : ☕ INTERFAZ GRÁFICA DE USUARIO 🎨 - PARTE 1 https://www.youtube.com/watch?v=Fc4uFeMXBS8&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=21
+- Video 21 :  ☕ INTERFAZ GRÁFICA DE USUARIO 🎨 - PARTE 2 🤓 https://www.youtube.com/watch?v=DAU0rDqcArs&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=22
+- Video 22 : 🤔 ¿Cómo sigo luego del CURSO de Java para PRINCIPIANTES? https://www.youtube.com/watch?v=J0fMyqQDyUI&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=23
+- Video 23 :  ☕ EJERCICIO de CONDICIONALES: SUELDO de EMPLEADOS https://www.youtube.com/watch?v=HqDDVjr4kvA&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=24
+- Video 24 : 
+- Video 25 :
+- Video 26 : 
+- Video 27 :
+- Video 28 : 
+- Video 29 :
+- Video 30 :
+- Video 31 :
+- Video 32 : 
+- Video 33 : Agenda en Java https://www.youtube.com/watch?v=8ahuIJEOxf4&list=PLQxX2eiEaqbwxYrMUJ6gRz82mLzUeeJy9&index=33
+
 
 
 
