@@ -5,6 +5,10 @@
 5. Como controlar mis excesos 2 https://cursocoaching.com.es/4-como-controlar-mis-excesos-2/
 6. Como controlar mis excesos 3 https://cursocoaching.com.es/4-como-controlar-mis-excesos-3/
 7. No tengo fuerza de voluntad. Vencer las creencias negativas https://cursocoaching.com.es/5-no-tengo-fuerza-de-voluntad-vencer-las-creencias-negativas-1/ 
+8.  No tengo fuerza de voluntad. Vencer las creencias negativas – 2 https://cursocoaching.com.es/5-no-tengo-fuerza-de-voluntad-vencer-las-creencias-negativas-2/
+9.  No tengo fuerza de voluntad. Vencer las creencias negativas – 3 https://cursocoaching.com.es/5-no-tengo-fuerza-de-voluntad-vencer-las-creencias-negativas-3/
+10.  ¿Qué afecta a mi conducta alimentaria?: la Rueda de la Alimentación https://cursocoaching.com.es/6-que-afecta-a-mi-conducta-alimentaria-la-rueda-de-la-alimentacion/
+11. USO DE LA RUEDA: EL ENTORNO https://cursocoaching.com.es/uso-de-la-rueda-el-entorno/
 
 
 
