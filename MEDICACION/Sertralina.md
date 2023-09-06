@@ -1,2 +1,0 @@
-- al día miércoles  23/8/23 quedan 5 , me tomo la de hoy quedan 4
-- El día 28/8/23 arranque con las nuevas 30 pastillas y hoy tome la primera 
