@@ -1,5 +1,0 @@
-- Mindfulness MBSR https://www.asociacionmindfulness.com.ar/que-es-mbsr/
-- Mindfulness MBCT https://psicologosmindfulness.com/que-es-mindfulness-mbct/
-- Mindfulness ACT https://catc.com.ar/terapia-de-aceptacion-y-compromiso-act.html
-- Mindfulness DBT https://childmind.org/es/articulo/dbt-que-es-la-terapia-dialectica-conductual/
-------
