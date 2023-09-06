@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "48cae8e7ad11594c",
+        "id": "18bf105831dc5635",
         "type": "tabs",
         "children": [
           {
-            "id": "49f522e9a3a968d1",
+            "id": "31d2a9fa91f42e1f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "1ef9f387d0a4b5cb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -138,6 +138,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-calibre-plugin:Calibre": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "obsidian-day-planner:Week plan": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo canvas": false,
@@ -147,8 +153,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "49f522e9a3a968d1",
+  "active": "31d2a9fa91f42e1f",
   "lastOpenFiles": [
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Jul-23/resumen_cuenta_visa_Jul_2023.pdf",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/visa-Icbc.md",
+    "04-ObsidianFinanzas/Visa Icbc.md",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/CencosudAgo23.pdf",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Jul-23",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-06.md",
+    "02-ObsidianEstudio/CURSOS/todocode/Poo con Java.md",
+    "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
     "ANOTACIONES DIARIAS/2023-09-07.md",
     "ANOTACIONES DIARIAS/2023-09-04.md",
     "ADJUNTOS/LETRAS DE CANCIONES/vienes y te vas.pdf",
@@ -157,27 +172,23 @@
     "ADJUNTOS/LETRAS DE CANCIONES/Señora chichera.pdf",
     "ADJUNTOS/LETRAS DE CANCIONES/Ojos azules.pdf",
     "ADJUNTOS/LETRAS DE CANCIONES/Naranjitay.pdf",
-    "libro de danzas folcloricas.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/Luna vallista.pdf",
     "Tareas.md",
-    "ADJUNTOS/LETRAS DE CANCIONES/Luna tucumana.pdf",
     "TARJETAS DE CREDITO/visa-Icbc.md",
     "ADJUNTOS/LETRAS DE CANCIONES/Letras de canciones.md",
-    "ADJUNTOS/LETRAS DE CANCIONES",
     "ADJUNTOS/Formulas para establecer y alcanzar metas.md",
     "SERIES Y PELICULAS/el-puntero.md",
     "SALUD/Oftalmología.md",
     "ADJUNTOS/COMPRAS/Compras realizadas.md",
     "SALUD/Descenso de peso.md",
-    "2023-09-09.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-09 1.md",
     "PARA LEER/Para leer.md",
-    "2023-09-08.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-08 1.md",
     "Notas de como usar git obsidian.md",
-    "2023-09-06.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-06 1.md",
     "MEDICACION/Sertralina.md",
-    "2023-09-05.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-05 1.md",
     "Letras de canciones.md",
-    "2023-09-04.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-04 1.md",
     "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
     "Imagenes/huella.gif",
@@ -188,12 +199,6 @@
     "Imagenes/Escondido.gif",
     "Imagenes/Chacarera_simple.png",
     "Imagenes/Chacarera_doble.png",
-    "Imagenes/!Chacarera_simple.png.md",
-    "FOLCLORE FUSION/Letras de las canciones.md",
-    "FOLCLORE DANZAS/Danzas folcloricas.md",
-    "FOLCLORE DANZAS/Coreografías de danzas.md",
-    "Decisiones y procedimientos.md",
-    "CURSOS/todocode/Poo con Java.md",
-    "CURSOS/todocode/Java principiantes.md"
+    "Imagenes/!Chacarera_simple.png.md"
   ]
 }
