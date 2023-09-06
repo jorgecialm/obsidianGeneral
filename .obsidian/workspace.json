@@ -1,49 +1,39 @@
 {
   "main": {
-    "id": "cd0975388d0479aa",
+    "id": "119c185f7a109382",
     "type": "split",
     "children": [
       {
-        "id": "50be1825db4434a3",
+        "id": "48cae8e7ad11594c",
         "type": "tabs",
         "children": [
           {
-            "id": "5e773b4aaa5fb603",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "4ed7f0bfb3e50dbd",
+            "id": "49f522e9a3a968d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-09.md",
+                "file": "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "98deacc46d25e725",
+    "id": "bd8b815214b37bcb",
     "type": "split",
     "children": [
       {
-        "id": "3295627a25747568",
+        "id": "d6a1220bfff5b0ea",
         "type": "tabs",
         "children": [
           {
-            "id": "64900c56676ed69a",
+            "id": "c709ff1453d36416",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,7 +43,7 @@
             }
           },
           {
-            "id": "8e85cb5646585dab",
+            "id": "02476fb5c67085c2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +58,7 @@
             }
           },
           {
-            "id": "bc07026a63919d88",
+            "id": "6e72a189af2c84a7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ec8f88c8dc7c89a3",
+    "id": "ab16caa88de57fd3",
     "type": "split",
     "children": [
       {
-        "id": "e9c40b25d1c3320d",
+        "id": "880697890a00fae7",
         "type": "tabs",
         "children": [
           {
-            "id": "18a0ec272cfe3d04",
+            "id": "1860edd4109cb709",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-09.md",
+                "file": "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,60 +97,43 @@
             }
           },
           {
-            "id": "2947ff10c419e474",
+            "id": "a358a894e5f51d7c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-09.md",
+                "file": "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e2c3fce657bb787b",
+            "id": "d90b81db7559f954",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "f37fa38a9125825c",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "32cf6ee7fc1ad0a6",
+            "id": "0cc0ce626d76a829",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-09.md"
+                "file": "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md"
               }
             }
-          },
-          {
-            "id": "74f9148a139ab18e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,62 +144,56 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false,
-      "obsidian-calibre-plugin:Calibre": false,
-      "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "obsidian-day-planner:Week plan": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4ed7f0bfb3e50dbd",
+  "active": "49f522e9a3a968d1",
   "lastOpenFiles": [
-    "2023-09-08.md",
-    "2023-09-06.md",
-    "2023-09-05.md",
-    "Tareas.md",
-    "2023-09-09.md",
     "ANOTACIONES DIARIAS/2023-09-07.md",
     "ANOTACIONES DIARIAS/2023-09-04.md",
-    "ANOTACIONES DIARIAS/2023-09-03.md",
-    "Notas de como usar git obsidian.md",
-    "Highlights for libro de danzas folcloricas.md",
+    "ADJUNTOS/LETRAS DE CANCIONES/vienes y te vas.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/sirviñaco.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/el tinku.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Señora chichera.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Ojos azules.pdf",
+    "ADJUNTOS/LETRAS DE CANCIONES/Naranjitay.pdf",
     "libro de danzas folcloricas.pdf",
-    "FOLCLORE DANZAS/Coreografías de danzas.md",
-    "CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
-    "FOLCLORE DANZAS/Danzas folcloricas.md",
-    "Sin confirmar 594835.crdownload",
-    "TARJETAS DE CREDITO/CencosudAgo23.pdf",
-    "TARJETAS DE CREDITO/visa-Icbc.md",
-    "TARJETAS DE CREDITO/resumen_cuenta_visa_Jul_2023.pdf",
-    "CURSOS/todocode/Poo con Java.md",
-    "Sin confirmar 899205.crdownload",
-    "CURSOS/todocode/Java principiantes.md",
-    "CALENDAR/ACTIVIDADES/2023-08-23 tareas.md",
-    "ANOTACIONES DIARIAS/2023-08-22.md",
-    "ANOTACIONES DIARIAS/2023-08-21.md",
-    "ANOTACIONES DIARIAS/2023-08-18.md",
-    "ANOTACIONES DIARIAS/2023-08-17.md",
-    "ANOTACIONES DIARIAS/2023-08-12.md",
-    "Imagenes/Captura de pantalla 2023-09-03 075521.jpg",
-    "lu515645tidv.tmp",
-    "Java Poo.odp",
-    "ANOTACIONES DIARIAS/2023-09-02.md",
-    "SALUD/Oftalmología.md",
-    "SALUD/Descenso de peso.md",
-    "ANOTACIONES DIARIAS/2023-08-31.md",
+    "ADJUNTOS/LETRAS DE CANCIONES/Luna vallista.pdf",
+    "Tareas.md",
     "ADJUNTOS/LETRAS DE CANCIONES/Luna tucumana.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/lu36122vipah.tmp",
-    "ADJUNTOS/LETRAS DE CANCIONES/lu36122vipae.tmp",
-    "CURSOS/todocode/Pasted image 20230902081733.png",
-    "Imagenes/Captura de pantalla 2023-09-02 073002.jpg",
-    "Imagenes/Captura de pantalla 2023-09-02 071851.jpg",
-    "ADJUNTOS/factura horno.jpg",
-    "Imagenes/Captura1.PNG",
-    "Imagenes/SharedScreenshot.jpg",
-    "Imagenes/Captura de pantalla 2023-08-25 143700.png",
+    "TARJETAS DE CREDITO/visa-Icbc.md",
+    "ADJUNTOS/LETRAS DE CANCIONES/Letras de canciones.md",
+    "ADJUNTOS/LETRAS DE CANCIONES",
+    "ADJUNTOS/Formulas para establecer y alcanzar metas.md",
+    "SERIES Y PELICULAS/el-puntero.md",
+    "SALUD/Oftalmología.md",
+    "ADJUNTOS/COMPRAS/Compras realizadas.md",
+    "SALUD/Descenso de peso.md",
+    "2023-09-09.md",
+    "PARA LEER/Para leer.md",
+    "2023-09-08.md",
+    "Notas de como usar git obsidian.md",
+    "2023-09-06.md",
+    "MEDICACION/Sertralina.md",
+    "2023-09-05.md",
+    "Letras de canciones.md",
+    "2023-09-04.md",
+    "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
-    "Imagenes/zamba03.webp"
+    "Imagenes/huella.gif",
+    "Imagenes/gato.gif",
+    "Imagenes/coreografia-zambajpg.webp",
+    "Imagenes/SharedScreenshot.jpg",
+    "Imagenes/GATO CUYANO.jpg",
+    "Imagenes/Escondido.gif",
+    "Imagenes/Chacarera_simple.png",
+    "Imagenes/Chacarera_doble.png",
+    "Imagenes/!Chacarera_simple.png.md",
+    "FOLCLORE FUSION/Letras de las canciones.md",
+    "FOLCLORE DANZAS/Danzas folcloricas.md",
+    "FOLCLORE DANZAS/Coreografías de danzas.md",
+    "Decisiones y procedimientos.md",
+    "CURSOS/todocode/Poo con Java.md",
+    "CURSOS/todocode/Java principiantes.md"
   ]
 }
