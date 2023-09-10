@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "18bf105831dc5635",
+        "id": "2dffc13d22adaf55",
         "type": "tabs",
         "children": [
           {
-            "id": "31d2a9fa91f42e1f",
+            "id": "d153c3f4106e07a6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "consumo de harinas y de alcohol.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "consumo de harinas y de alcohol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "consumo de harinas y de alcohol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "consumo de harinas y de alcohol.md"
+              }
             }
           },
           {
@@ -128,13 +137,29 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "7d7ba42bda7ff317",
+            "type": "leaf",
+            "state": {
+              "type": "time-ruler-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f98e9adda37284b7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,45 +175,49 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "31d2a9fa91f42e1f",
+  "active": "d153c3f4106e07a6",
   "lastOpenFiles": [
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Jul-23/resumen_cuenta_visa_Jul_2023.pdf",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/visa-Icbc.md",
-    "04-ObsidianFinanzas/Visa Icbc.md",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/CencosudAgo23.pdf",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Jul-23",
+    "Índice.md",
+    "consumo de harinas y de alcohol.md",
+    "2023-09-10.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-09.md",
+    "01-ObsidianDiario/Tareas.md",
+    "01-ObsidianDiario/MEDICACION/Sertralina.md",
+    "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-08.md",
+    "01-ObsidianDiario/FINANZAS/Septiembre de 2023.md",
+    "Martín Fierro - José Hernández.md",
+    "El Principito (Album) - Antoine de Saint-Exupéry.md",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-06.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-07.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-08-22.md",
     "02-ObsidianEstudio/CURSOS/todocode/Poo con Java.md",
-    "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
-    "ANOTACIONES DIARIAS/2023-09-07.md",
-    "ANOTACIONES DIARIAS/2023-09-04.md",
-    "ADJUNTOS/LETRAS DE CANCIONES/vienes y te vas.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/sirviñaco.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/el tinku.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/Señora chichera.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/Ojos azules.pdf",
-    "ADJUNTOS/LETRAS DE CANCIONES/Naranjitay.pdf",
-    "Tareas.md",
-    "TARJETAS DE CREDITO/visa-Icbc.md",
-    "ADJUNTOS/LETRAS DE CANCIONES/Letras de canciones.md",
-    "ADJUNTOS/Formulas para establecer y alcanzar metas.md",
-    "SERIES Y PELICULAS/el-puntero.md",
-    "SALUD/Oftalmología.md",
-    "ADJUNTOS/COMPRAS/Compras realizadas.md",
-    "SALUD/Descenso de peso.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-09 1.md",
-    "PARA LEER/Para leer.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-08 1.md",
-    "Notas de como usar git obsidian.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-06 1.md",
-    "MEDICACION/Sertralina.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-05 1.md",
-    "Letras de canciones.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-04 1.md",
+    "01-ObsidianDiario/SALUD/Descenso de peso.md",
+    "01-ObsidianDiario/PARA LEER/Para leer.md",
+    "03-ObsidianArte/Letras de canciones 1.md",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/Resumen27_07_2023.pdf",
+    "Decisiones y procedimientos.md",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/_ComprobantePago (1).pdf",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/_ComprobantePago.pdf",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/resumen_cuenta_visa_Ago23.pdf",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/CencosudAgo23.pdf",
+    "04-ObsidianFinanzas/resumen_cuenta_visa_Jul_2023.pdf",
+    "04-ObsidianFinanzas/30717033872_006_00001_00000616.pdf",
+    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Cuotas pendientes Visa.md",
+    "01-ObsidianDiario/ADJUNTOS/COMPRAS/Compras realizadas.md",
+    "01-ObsidianDiario/ADJUNTOS/Factura silla de barra.pdf",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-22.md",
+    "03-ObsidianArte/Danzas folcloricas.pdf",
+    "03-ObsidianArte/libro de danzas folcloricas.pdf",
+    "04-ObsidianFinanzas/Visa Icbc.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-05.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-04.md",
+    "03-ObsidianArte/CANTO/Letras de canciones de canto.md",
     "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
     "Imagenes/huella.gif",
@@ -198,7 +227,6 @@
     "Imagenes/GATO CUYANO.jpg",
     "Imagenes/Escondido.gif",
     "Imagenes/Chacarera_simple.png",
-    "Imagenes/Chacarera_doble.png",
-    "Imagenes/!Chacarera_simple.png.md"
+    "Imagenes/Chacarera_doble.png"
   ]
 }
