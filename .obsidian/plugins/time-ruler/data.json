@@ -1,0 +1,23 @@
+{
+  "calendars": [
+    "https://calendar.google.com/calendar/ical/1f4b263041c412d10fd4b2ed7656e2e5d8343128d5bf4a970f0b3bbc424d4d10%40group.calendar.google.com/private-87e2ae7da9d0aea4e2757782c502a285/basic.ics"
+  ],
+  "fieldFormat": "dataview",
+  "muted": false,
+  "inbox": null,
+  "search": "",
+  "taskSearch": "",
+  "fileOrder": [
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-08-22.md",
+    "01-ObsidianDiario/Tareas.md"
+  ],
+  "customStatus": {
+    "include": false,
+    "statuses": "-"
+  },
+  "showCompleted": false,
+  "dayStartEnd": [
+    8,
+    22
+  ]
+}
