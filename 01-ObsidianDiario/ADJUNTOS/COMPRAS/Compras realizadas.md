@@ -1,2 +1,2 @@
 - El día 18/8/23 compre un par de sillas para la barra de la cocina [[Factura silla de barra.pdf|Factura Sillas de la barra]]
-- 
+- El día 30/8/23 compramos 2 sillas para la barra y 6 sillas de comedor 
