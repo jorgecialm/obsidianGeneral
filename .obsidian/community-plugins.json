@@ -10,5 +10,8 @@
   "dataview",
   "obsidian-extract-pdf-highlights",
   "git-sync",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "obsidian-full-calendar",
+  "obsidian-tasks-plugin",
+  "time-ruler"
 ]
