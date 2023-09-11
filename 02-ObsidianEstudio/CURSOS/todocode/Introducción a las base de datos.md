@@ -1,0 +1,22 @@
+- Video 1 : # 💥 ¿Qué son las BASES DE DATOS? 2020 | https://www.youtube.com/watch?v=SKOiEXlFNeM&list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf&index=1
+- Video 2 : # 💻 ¿Cómo instalar XAMPP Server? 2022 💥 | https://www.youtube.com/watch?v=pwTbAKRiRvA&list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf&index=2
+- Video 3 : # ¿Cómo instalar WAMP SERVER 3.2.0? + Visual Studio y complementos https://www.youtube.com/watch?v=LV-lXcja_VU&list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf&index=3
+- Video 4 : # 💥 ENTIDADES y ATRIBUTOS | Diagrama Entidad Relación (DER) | BASES DE DATOS https://www.youtube.com/watch?v=_acDisSc2UE&list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf&index=4
+- Video 5 : # 💥 RELACIONES 1aN, 1a1 y NaN | Diagrama Entidad Relación (DER) https://www.youtube.com/watch?v=AArIcStS0TU&list=PLQxX2eiEaqbwcW3dkmUqJq7B-SXHyCglf&index=5
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+- Video 1 :
+
+------
+Anotaciones sobre bases de datos
