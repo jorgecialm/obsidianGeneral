@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-11.md",
-                "mode": "source",
-                "source": false
+                "file": "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-11.md",
+                "file": "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-11.md",
+                "file": "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-11.md"
+                "file": "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md"
               }
             }
           },
@@ -152,13 +152,24 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "bf31f16eb35d5cc0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,20 +190,20 @@
       "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "d153c3f4106e07a6",
+  "active": "c709ff1453d36416",
   "lastOpenFiles": [
-    "01-ObsidianDiario/FINANZAS/Septiembre de 2023.md",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-11.md",
+    "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
+    "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
+    "Índice.md",
+    "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md",
     "02-ObsidianEstudio/CURSOS/todocode/Poo con Java.md",
     "consumo de harinas y de alcohol.md",
-    "Índice.md",
     "02-ObsidianEstudio/CURSOS/todocode/Introducción a las base de datos.md",
     "01-ObsidianDiario/Tareas.md",
     "2023-09-10.md",
-    "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-09.md",
     "01-ObsidianDiario/MEDICACION/Sertralina.md",
-    "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-08.md",
     "Martín Fierro - José Hernández.md",
     "El Principito (Album) - Antoine de Saint-Exupéry.md",
