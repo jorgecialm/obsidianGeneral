@@ -1,12 +1,12 @@
 - [x] tomar el te   [scheduled:: 2023-09-10T08:45] ✅ 2023-09-10
-- [ ] 📅 2023-09-10 Escribir en mi cuaderno 
-- [ ] 📅 2023-09-10 Tomar mate
+- [x] 📅 2023-09-10 Escribir en mi cuaderno ✅ 2023-09-12
+- [x] 📅 2023-09-10 Tomar mate ✅ 2023-09-12
+- [ ] 📅 2023-09-12 comprar los remedios para mi
 
 
 
-- [ ] Descansar  🛫 2023-09-10 📅 2023-09-10
-- [ ] Reunión🔼  con Liello  🔁 📅 2023-09-11
-- [ ] 🛫 2023-09-11 Folclore⏳ 2023-09-11
+- [x] Descansar 🛫 2023-09-10 📅 2023-09-10 ✅ 2023-09-12
+- [x] Reunión🔼  con Liello  🔁 📅 2023-09-11 ✅ 2023-09-12
 - [ ] Ordenar las cerámicas en el frente🛫 2023-09-11
 
 
