@@ -49,3 +49,5 @@
 - **Mentiras de la nutrición ** https://drive.google.com/file/d/10X9gV8wWSVNc1PzrkWfPUZXrXI4rsGUC/view?usp=drive_link
 - **Laburando en tu mente** https://drive.google.com/file/d/10a8q3f6J6THhegD6WZbxHYT7nFC-buKx/view?usp=drive_link
 - **Respiración consiente** https://drive.google.com/file/d/10dQYzpOu6gcI6McY6-kia5Qr5bHRfw_x/view?usp=drive_link
+- **Autoconocimiento y auto escucha** : https://drive.google.com/file/d/10eUNZw4fxt0l3kxmuVjNMXPzbBLxAUiI/view?usp=drive_link
+- **Conecta con la naturaleza y el sol** : https://drive.google.com/file/d/10eUNZw4fxt0l3kxmuVjNMXPzbBLxAUiI/view?usp=drive_link
