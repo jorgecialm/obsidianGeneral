@@ -20,3 +20,4 @@ https://www.notion.so/Ejercicios-4b4a44dc6f434177a6c80b499896924e?pvs=4 Anotaci�
 |Press de hombro|30|7 kg|
 |bíceps|30|7kg|
 
+- Empecé hacer todos los ejercicios con 7  kg pero en los vuelos laterales y frontales menos repeticiones 4,5,6 
