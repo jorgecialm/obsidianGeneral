@@ -29,5 +29,5 @@ https://www.notion.so/Ejercicios-4b4a44dc6f434177a6c80b499896924e?pvs=4 Anotaci�
 |Vuelo Frontal|30|7 kg|
 |Martillo|30|9 kg|
 |Traslanuca|30|9 kg|
-|Press de hombro|30|7 kg|
-|bíceps|30|7kg|
+|Press de hombro|30|9 kg|
+|bíceps|30|9 kg|
