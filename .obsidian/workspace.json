@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-ObsidianDiario/MEDICACION/Sertralina.md",
+                "file": "Índice.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-ObsidianDiario/MEDICACION/Sertralina.md",
+                "file": "Índice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-ObsidianDiario/MEDICACION/Sertralina.md",
+                "file": "Índice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-ObsidianDiario/MEDICACION/Sertralina.md"
+                "file": "Índice.md"
               }
             }
           },
@@ -208,13 +208,13 @@
   },
   "active": "89d1f243484cd4b4",
   "lastOpenFiles": [
-    "Índice.md",
     "2023-09-19.md",
+    "01-ObsidianDiario/MEDICACION/Sertralina.md",
+    "Índice.md",
     "02-ObsidianEstudio/CURSOS/todocode/Introducción a las base de datos.md",
     "2023-10-03.md",
     "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
     "02-ObsidianEstudio/CAMBIA HOY 2023/Curso para bajar de peso.md",
-    "01-ObsidianDiario/MEDICACION/Sertralina.md",
     "2023-09-18.md",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-28.md",
     "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md",
