@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0707e6938e40dc55",
+        "id": "43e619792cffbd20",
         "type": "tabs",
         "children": [
           {
-            "id": "c6b416236b41d2aa",
+            "id": "59d71b284718e6bd",
             "type": "leaf",
             "state": {
-              "type": "weekly",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05-Notas/Porque quiero bajar de peso.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "89d1f243484cd4b4",
+            "id": "6eaea0475bcd4bf8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9cb5ab65791271db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7ec2289548750a21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
+                "file": "05-Notas/Porque quiero bajar de peso.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "peso",
+                "query": "tag:#salud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
+                "file": "05-Notas/Porque quiero bajar de peso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
+                "file": "05-Notas/Porque quiero bajar de peso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md"
+                "file": "05-Notas/Porque quiero bajar de peso.md"
               }
             }
           },
@@ -189,17 +175,9 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "c0200f0def63f6eb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -224,35 +202,36 @@
       "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "c0200f0def63f6eb",
+  "active": "6eaea0475bcd4bf8",
   "lastOpenFiles": [
+    "05-Notas/Porque como tanto.md",
+    "05-Notas/Porque quiero bajar de peso.md",
+    "05-Notas/Objetivos.md",
+    "01-ObsidianDiario/2023-09-23.md",
     "Índice.md",
-    "01-ObsidianDiario/MEDICACION/Sertralina.md",
-    "2023-09-19.md",
-    "02-ObsidianEstudio/CURSOS/todocode/Introducción a las base de datos.md",
-    "2023-10-03.md",
-    "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
-    "02-ObsidianEstudio/CAMBIA HOY 2023/Curso para bajar de peso.md",
-    "2023-09-18.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-28.md",
-    "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md",
+    "05-Notas",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-22.md",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-21.md",
-    "01-ObsidianDiario/PARA LEER/Para leer.md",
-    "01-ObsidianDiario/Decisiones y procedimientos.md",
-    "01-ObsidianDiario/Decisiones y procedimientos 1.md",
-    "01-ObsidianDiario/consumo de harinas y de alcohol.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-15.md",
+    "01-ObsidianDiario/2023-09-20.md",
     "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-14.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-16.md",
+    "01-ObsidianDiario/2023-10-03.md",
+    "01-ObsidianDiario/2023-09-19.md",
+    "01-ObsidianDiario/2023-09-18.md",
+    "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md",
+    "04-ObsidianFinanzas/FINANZAS/Mapa mental.md",
+    "01-ObsidianDiario/SALUD/Oftalmología.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-12.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-11.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-07.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-08-31.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-08-24.md",
     "01-ObsidianDiario/SALUD/Descenso de peso.md",
+    "01-ObsidianDiario/MEDICACION/Sertralina.md",
+    "02-ObsidianEstudio/CURSOS/todocode/Introducción a las base de datos.md",
+    "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
+    "02-ObsidianEstudio/CAMBIA HOY 2023/Curso para bajar de peso.md",
+    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-28.md",
     "01-ObsidianDiario/ADJUNTOS/LETRAS DE CANCIONES/Ojos azules.pdf",
-    "03-ObsidianArte/FOLCLORE FUSION/Letras de las canciones.md",
-    "03-ObsidianArte/CANTO/Letras de canciones de canto.md",
-    "03-ObsidianArte/CANTO/Letras de canciones.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-10-05.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-10-02.md",
     "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/Resumen27_07_2023.pdf",
     "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/_ComprobantePago (1).pdf",
     "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/_ComprobantePago.pdf",
@@ -261,7 +240,6 @@
     "04-ObsidianFinanzas/resumen_cuenta_visa_Jul_2023.pdf",
     "04-ObsidianFinanzas/30717033872_006_00001_00000616.pdf",
     "01-ObsidianDiario/ADJUNTOS/Factura silla de barra.pdf",
-    "03-ObsidianArte/Danzas folcloricas.pdf",
     "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
     "Imagenes/huella.gif",

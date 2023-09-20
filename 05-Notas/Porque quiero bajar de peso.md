@@ -1,0 +1,13 @@
+- Por una cuestión estética
+	- No me gusta la imagen que me devuelve el espejo
+	- Estar delgado o en el peso justo es sinónimo de salubridad
+	- Esta mas relacionado con  lo social
+	- Con bullying
+- Para poder desarrollar todas las actividades que quiero 
+	- subir a una montaña
+	- salir a caminar por senderos cuando vamos de vacaciones 
+	- subir al Champaquí
+	- subir a sierra de la ventana 
+	- subir al cerro 3 picos 
+	- poder jugar con mi sobrino
+	- poder jugar con mi nieta
