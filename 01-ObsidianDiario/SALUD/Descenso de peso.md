@@ -9,7 +9,8 @@
 | 24/8/23 | 96.8 kg |
 | 31/8/23 | 94.1 kg |
 | 7/9/23  | 94.2 kg |
-| 14/9/23 |  93.6 kg       |
+| 14/9/23 | 93.6 kg |
+| 21/9/23 | 95.2 kg        |
 
 -----
 #### Primer semana
@@ -50,6 +51,8 @@
 - ejercicios de fuerza todos los días con las mancuernas 
 - en cuanto este mejor de salud agregar caminata , para mejorar la salud física y mental
 - **El objetivo es llegar a pesar 93.1 kg el día 21/9/23**
+- **No llegue al objetivo estoy en 95.2 kg**
+- llevo bajados desde que empecé el control 1.6 kg 1 mes 
 
 ------
 
