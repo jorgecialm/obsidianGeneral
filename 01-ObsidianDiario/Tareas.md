@@ -7,14 +7,14 @@
 
 - [x] Descansar 🛫 2023-09-10 📅 2023-09-10 ✅ 2023-09-12
 - [x] Reunión🔼  con Liello  🔁 📅 2023-09-11 ✅ 2023-09-12
-- [ ] Ordenar las cerámicas en el frente🛫 2023-09-11
+- [x] Ordenar las cerámicas en el frente 🛫 2023-09-11 ✅ 2023-09-22
 
 
 
 ### Por hacer 
-- [ ] Armar la pc de juan
+- [x] Armar la pc de juan ✅ 2023-09-22
 - [ ] Armar cajonera para mesa de trabajo
-- [ ] Hacer ejercicios de fuerza con las mancuernas
+- [x] Hacer ejercicios de fuerza con las mancuernas ✅ 2023-09-22
 - [ ] Hacer las divisiones para los cubiertos 
 - [x] Hacer transferencia para Ariel ✅ 2023-09-10
 

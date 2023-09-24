@@ -10,4 +10,6 @@
 10. hago alguna meditación 
 11. o simplemente respiraciones 
 12. si tengo el cuerpo tensionado trato de relajarlo
-13. 
+
+
+
