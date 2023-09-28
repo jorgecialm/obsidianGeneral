@@ -19,3 +19,4 @@
 	- llevar análisis de sangre 
 	- llevar placa de tórax
 	- también llevar el informe del cardiólogo
+	- Pedir la recetas de las aspirinetas
