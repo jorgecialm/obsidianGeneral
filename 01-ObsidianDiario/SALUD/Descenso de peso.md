@@ -4,13 +4,15 @@
 - y consumiendo muy poco y casi nada de alcohol
 
 
-| Fecha   | Peso    |
-| ------- | ------- |
-| 24/8/23 | 96.8 kg |
-| 31/8/23 | 94.1 kg |
-| 7/9/23  | 94.2 kg |
-| 14/9/23 | 93.6 kg |
-| 21/9/23 | 95.2 kg        |
+| Fecha   | Peso    | objetivo |
+| ------- | ------- | -------- |
+| 24/8/23 | 96.8 kg | 96.8 kg  |
+| 31/8/23 | 94.1 kg | 96.3 kg  |
+| 7/9/23  | 94.2 kg | 95.8 kg  |
+| 14/9/23 | 93.6 kg | 95.3 kg  |
+| 21/9/23 | 95.2 kg | 94.8 kg  |
+| 28/9/23 | 94.2 kg | 94.3 kg  |
+|         |         |          |
 
 -----
 #### Primer semana
@@ -53,7 +55,28 @@
 - **El objetivo es llegar a pesar 93.1 kg el día 21/9/23**
 - **No llegue al objetivo estoy en 95.2 kg**
 - llevo bajados desde que empecé el control 1.6 kg 1 mes 
-
+#### Quinta semana
+- El objetivo sigue siendo llegar a bajar 500 gramos por semana
+- Con alimentación natural
+- Raciones pequeñas
+- **No consumo de alcohol**
+- ejercicios de fuerza todos los días con las mancuernas 
+- en cuanto este mejor de salud agregar caminata , para mejorar la salud física y mental
+- **El objetivo es llegar a pesar 94.8 kg el día 28/9/23**
+- ==Peso : 94.2 kg
+- ----
+- **Legue al objetivo?**
+	- si llegue y los mejore
+- **Funciono ?**
+	- si funciono algunos días , comí sano y natural , hice ejercicios de mancuernas , comí raciones pequeñas 
+- **Fallo?**
+	- NO
+- **Porque ?**
+	- Porque mantuve algunas de las formas propuestas para bajar de peso
+- **Que hice en la semana para llegar al objetivo ?**
+	- ejercicios, comer moderadamente, comer natural , poco ultra procesados
+- **cuento peso baje desde que empecé a controlarme ?**
+	- 2.6 kg llevo bajados 
 ------
 
 

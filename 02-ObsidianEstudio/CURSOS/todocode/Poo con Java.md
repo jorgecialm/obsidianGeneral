@@ -22,11 +22,12 @@
 - Video 22 : # 🚀EJERCICIO INTEGRADOR con JAVA POO 🔴 Directo 29/06 🖥️ https://www.youtube.com/watch?v=0EXkSv0RWHo&list=PLQxX2eiEaqbwNP20GMMCjRslRq2lOLWlg&index=22
 - Video 23 : # 🚀¿Qué es JPA (Java Persistence API)? 🖥️ | BASES DE DATOS + JAVA https://www.youtube.com/watch?v=ppDv4N5A31E&list=PLQxX2eiEaqbwNP20GMMCjRslRq2lOLWlg&index=23
 - Video 24 : # 🚀JPA: MySQL Connection + Persistence Unit 🖥️ | BASES DE DATOS + JAVA #2 https://www.youtube.com/watch?v=KGzOP__3GjA&list=PLQxX2eiEaqbwNP20GMMCjRslRq2lOLWlg&index=24
-- Video 20 : 
-- Video 20 : 
-- Video 20 : 
-- Video 20 : 
-- Video 20 : 
+- Video 25 : # 🚀¿Qué es ORM? + ANNOTATIONS de JPA 🖥️ | BASES DE DATOS + JAVA https://www.youtube.com/watch?v=qocxxWNvHg4&list=PLQxX2eiEaqbwNP20GMMCjRslRq2lOLWlg&index=25
+- Video 26 : # 🚀 ¿Qué son los JPA Controllers? CONVERTIR CLASES en TABLAS 🖥️ | BASES DE DATOS + JAVA #4 https://www.youtube.com/watch?v=Z0BOz4wh1zg&list=PLQxX2eiEaqbwNP20GMMCjRslRq2lOLWlg&index=26
+- Video 27 : 
+- Video 28 : 
+- Video 29 : 
+- Video 30: 
 
 
 

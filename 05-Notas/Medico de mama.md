@@ -18,3 +18,4 @@
 -  [[2023-09-28]]
 	- llevar análisis de sangre 
 	- llevar placa de tórax
+	- también llevar el informe del cardiólogo

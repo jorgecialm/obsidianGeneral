@@ -1,0 +1,6 @@
+- **Legue al objetivo?**
+- **Funciono ?**
+- **Fallo?**
+- **Porque ?**
+- **Que hice en la semana para llegar al objetivo ?**
+- **cuento peso baje desde que empecé a controlarme ?**

@@ -1,5 +1,5 @@
 
-{{date}}
+# {{date}}
 ## Cosas buenas
 - 1
 
@@ -24,4 +24,3 @@
 - [ ] anotar si consumí harina 
 - [ ] anotar si tome las pastillas 
 
-![[Dia Algoritmo]]

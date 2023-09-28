@@ -1,0 +1,5 @@
+- El día 25/9/23 me comunique nuevamente con movistar 
+- pedí 300 megas de fibra óptica y 37 canales digitales 
+- el día 27/9/23 viene hacer la instalación 
+- El costo es de $ 8290 por 24 meses 
+- para hacer la portabilidad numérica hay que ir a las oficinas comerciales de Quilmes 
