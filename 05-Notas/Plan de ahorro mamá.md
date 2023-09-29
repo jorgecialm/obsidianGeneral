@@ -1,0 +1,6 @@
+- La idea es poder tener un ingreso de mama a partir de los ahorros que tiene 
+- ----
+- El día 29/9/23 arranque con una reserva en mercado pago de ***$ 40000
+- ----
+- La idea es que todos los meses se pueda ingresar dinero 
+- ---
