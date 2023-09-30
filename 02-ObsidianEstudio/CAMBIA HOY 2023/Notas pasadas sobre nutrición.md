@@ -1,0 +1,67 @@
+- Enfocarse en lo positivo
+- Hacer listado de las cosas positivas que voy logrando 
+- Consumo de carbo -> bajar
+	- Porque sube la insulina
+- Formas de consumo según alimentos ver la planilla
+	- todos los días 
+	- medidos (cantidad)
+	- con frecuencia 
+- forma de distribución  del plato 
+	- 1/2 plato de grasa y proteína
+	- 1/2 plato de vegetales crudos y cocidos
+- carbos :
+	- vegetales
+	- frutas
+	- alimentos s/gluten
+- agua
+- agua de mar
+- evitar los ultra procesados
+- comer con hambre
+- nutrir no es lo mismo que comer 
+- registrar lo que como 
+- no es obligatorio el desayuno
+- mas masa muscular mejor metabolismo
+- caminata , hits , fuerza
+### Importante
+- tener un objetivo 
+- eso te los "para que "
+	- conecta con los propósitos, motivaciones
+- tomar conciencia 
+- asumir responsabilidad
+- cuando hay pensamientos negativos: pensar si están dentro de mi zona de influencia o de preocupación
+- Para tener resultados hay que actuar 
+- para cambiar de hábitos hay que renunciar a algunas cosas
+- tener confianza
+- orientarse a soluciones 
+	- aprender del error 
+	- no repetir la misma estrategia 
+- para hacer que un sueño se haga realidad tienes que transformar tu deseo en una meta alcanzable
+- Que quiero conseguir?
+- Cual es el problema que quiero solucionar?
+- cual es objetivo que quiero alcanzar ?
+- utilizar el método 
+- P positivo(formulado en positivo)
+- R realista (alcanzable)
+- A acordado (consensuado, no impuesto)
+- M medible (cuantificable)
+- P personal (depende de ti)
+- E especifico (detallado y concreto)
+----
+- Positivo 
+	- pensar en lo que quiero
+- Realista
+	- Perder entre 2 a 4 kg por mes 
+- Acordado no impuesto
+	- motivos para llevar adelante el cambio 
+	- escribir beneficios del cambio 
+- Medible
+	- si no lo puedes medir no puedes mejorar
+- Plan de acción
+	- documento en el que escribir todo lo que quiero conseguir y para que lo quiero conseguir y como lo voy a lograr
+---
+### Para que 
+- No quiero tener dolor de estomago 
+- me quiero sentir liviano, ágil , poder bailar sin cansarme tanto
+- Poder jugar en el piso con mi nieta
+- poder jugar a la pelota con mi sobrino
+- poder bailar y cantar sin agotarme  
