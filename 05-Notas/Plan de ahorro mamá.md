@@ -1,6 +1,8 @@
 - La idea es poder tener un ingreso de mama a partir de los ahorros que tiene y que los mismos generen intereses 
 - ----
 - El día 29/9/23 arranque con una reserva en mercado pago de ***$ 40000
+- La saque porque no veo que halla intereses
+- Lo voy a poner en plazo fijo
 - ----
 - La idea es que todos los meses se pueda ingresar dinero 
 - ---
