@@ -1,3 +1,16 @@
+**Indice de la nota**
+
+- [[#Primer semana|Primer semana]]
+- [[#Segunda semana|Segunda semana]]
+- [[#Tercera semana|Tercera semana]]
+- [[#Cuarta semana|Cuarta semana]]
+- [[#Quinta semana|Quinta semana]]
+- [[#Ejercicios con mancuernas|Ejercicios con mancuernas]]
+
+
+
+
+
 - ==La idea es ir bajando de a 1/2 kg por semana 
 - Empecé la el ==24/8/23== a comer solo productos naturales 
 - No consumiendo harinas 
@@ -12,7 +25,7 @@
 | 14/9/23 | 93.6 kg | 95.3 kg  |
 | 21/9/23 | 95.2 kg | 94.8 kg  |
 | 28/9/23 | 94.2 kg | 94.3 kg  |
-|         |         |          |
+| 5/10/23 | 95.1 kg   | 93.8 kg         |
 
 -----
 #### Primer semana

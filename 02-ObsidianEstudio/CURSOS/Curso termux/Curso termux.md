@@ -1,0 +1,2 @@
+- Capítulo 1 : # Introducción e instalación de Termux - 📚Aprende 📱 Termux con 10 ⏰Minutos al dia. Cap 1 https://www.youtube.com/watch?v=tazBFBucBzg&t=373s
+- 

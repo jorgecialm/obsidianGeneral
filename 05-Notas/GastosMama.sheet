@@ -41710,8 +41710,28 @@
         "id": "306c130a-5c2d-4f4d-860e-d7b30e8f4615",
         "name": "Sheet2",
         "plugin": "divams_spreadsheets_for_obsidian",
-        "config": {},
-        "celldata": [],
+        "config": {
+            "columnlen": {
+                "0": 387
+            },
+            "customWidth": {
+                "0": 1
+            }
+        },
+        "celldata": [
+            {
+                "r": 0,
+                "c": 0,
+                "v": {
+                    "m": "el dia 4/10/23 cambie 400 dolares a $ 830 = 332000",
+                    "ct": {
+                        "fa": "General",
+                        "t": "g"
+                    },
+                    "v": "el dia 4/10/23 cambie 400 dolares a $ 830 = 332000"
+                }
+            }
+        ],
         "calcChain": []
     }
 ]
