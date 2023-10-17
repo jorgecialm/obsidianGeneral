@@ -2,13 +2,13 @@
 
 |    Mes    |      DETALLE        |    CUOTA   |       MONTO     |
 | ------ | ------------ | ----- | ----------:| 
-| Oct-23 | Maxipiso     | 17/24 |  $ 2542.94 |
+| Nov-23 | Maxipiso     | 18/24 |  $ 2542.94 |
 | Oct-23 | Rex          | 6/6   |  $ 2516.28 |
-| Oct-23 | solo insumos | 4/6   | $ 24553.33 |
-| Oct-23 | Sanitarios   | 4/6   | $ 12366.66 |
+| Nov-23 | solo insumos | 5/6   | $ 24553.33 |
+| Nov-23 | Sanitarios   | 5/6   | $ 12366.66 |
 | Oct-23 | Luiggi       | 3/3   |  $ 4666.66 |
 | Oct-23 | Perozzi      | 3/3   | $ 61306.30 |
-| Oct-23 | Ceramisur    | 3/6   | $ 65176.98 |
+| Nov-23 | Ceramisur    | 4/6   | $ 65176.98 |
 
 ##### Agosto de 2023
 

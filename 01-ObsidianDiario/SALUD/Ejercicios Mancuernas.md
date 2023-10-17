@@ -22,7 +22,7 @@ https://www.notion.so/Ejercicios-4b4a44dc6f434177a6c80b499896924e?pvs=4 Anotaci√
 
 - Empec√© hacer todos los ejercicios con 7  kg pero en los vuelos laterales y frontales menos repeticiones 4,5,6 
 
-### Desde el 18/9/23 al 24/9/23
+### Desde el 18/9/23 al 24/10/23
 |Ejercicio|Series|Peso|
 |---|---|---|
 |Vuelo lateral|30|7 kg|

@@ -51,3 +51,4 @@
 - **Respiración consiente** https://drive.google.com/file/d/10dQYzpOu6gcI6McY6-kia5Qr5bHRfw_x/view?usp=drive_link
 - **Autoconocimiento y auto escucha** : https://drive.google.com/file/d/10eUNZw4fxt0l3kxmuVjNMXPzbBLxAUiI/view?usp=drive_link
 - **Conecta con la naturaleza y el sol** : https://drive.google.com/file/d/10eUNZw4fxt0l3kxmuVjNMXPzbBLxAUiI/view?usp=drive_link
+- **Pone en practica haciente**:https://drive.google.com/drive/folders/10EmQvw4c-jFhNzFKmOoxkzeXczQ9kV41
