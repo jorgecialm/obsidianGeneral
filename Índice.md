@@ -10,3 +10,5 @@
 [[Plan de ahorro mamá]]
 [[Declaración Prepaga]]
 [[revisiones]]
+[[Cargar gastos de Jorge]]
+[[Cargar gastos de mamá]]

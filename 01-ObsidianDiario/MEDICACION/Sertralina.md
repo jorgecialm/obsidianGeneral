@@ -1,6 +1,7 @@
 - al día miércoles  23/8/23 quedan 5 , me tomo la de hoy quedan 4
 - El día 28/8/23 arranque con las nuevas 30 pastillas y hoy tome la primera 
 - El 28/9/23 arranco con las nuevas pastillas de sertralina
+- https://www.notion.so/6c458ceeb53941f1b341e1f409597526?v=a353f8ef46344cd9a919551a89abb505&pvs=4
 
 | Dia   | pastilla |
 | ----- | -------- |
