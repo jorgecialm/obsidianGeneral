@@ -21,4 +21,7 @@
 	- también llevar el informe del cardiólogo
 	- Pedir la recetas de las aspirinetas
 	- Volver a control en #Enero2024
-	
+
+### Próxima consulta
+- [[2023-11-02]]
+- 
