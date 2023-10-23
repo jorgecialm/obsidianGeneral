@@ -1,2 +1,2 @@
 - armar en notion seguimiento de hábitos
-- https://www.notion.so/Habitos-diarios-db205e04d45e48b2bfff1d396cb6884f
+- https://www.notion.so/H-bitos-d1dbb76bd2b24938a4d2a7343b59bdb0?pvs=4
