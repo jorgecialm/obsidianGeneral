@@ -21,8 +21,4 @@
 	- también llevar el informe del cardiólogo
 	- Pedir la recetas de las aspirinetas
 	- Volver a control en #Enero2024
-
-### Medicación que toma mama
-1. aspirinetas
-2. vitaminas  b1,b6,b12
-3. ciprovit calcio
+	

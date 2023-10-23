@@ -12,3 +12,5 @@
 [[revisiones]]
 [[Cargar gastos de Jorge]]
 [[Cargar gastos de mamá]]
+[[Datos de mamá]]
+
