@@ -46,9 +46,11 @@
 - **Alimentación consciente 1** https://drive.google.com/file/d/10UKFdN1q5MzaQcA9cHwSd8WbY6Uu7yKu/view?usp=drive_link trabajar con la tabla Excel
 - ![[SharedScreenshot.jpg]]
 - **Alimentación consciente 2** https://drive.google.com/file/d/10WsPgMrvhUiTXMF4j5sUtulskq5UgA31/view?usp=drive_link
-- **Mentiras de la nutrición ** https://drive.google.com/file/d/10X9gV8wWSVNc1PzrkWfPUZXrXI4rsGUC/view?usp=drive_link
+- **Mentiras de la nutrición** https://drive.google.com/file/d/10X9gV8wWSVNc1PzrkWfPUZXrXI4rsGUC/view?usp=drive_link
 - **Laburando en tu mente** https://drive.google.com/file/d/10a8q3f6J6THhegD6WZbxHYT7nFC-buKx/view?usp=drive_link
 - **Respiración consiente** https://drive.google.com/file/d/10dQYzpOu6gcI6McY6-kia5Qr5bHRfw_x/view?usp=drive_link
 - **Autoconocimiento y auto escucha** : https://drive.google.com/file/d/10eUNZw4fxt0l3kxmuVjNMXPzbBLxAUiI/view?usp=drive_link
 - **Conecta con la naturaleza y el sol** : https://drive.google.com/file/d/10eUNZw4fxt0l3kxmuVjNMXPzbBLxAUiI/view?usp=drive_link
 - **Pone en practica haciente**:https://drive.google.com/drive/folders/10EmQvw4c-jFhNzFKmOoxkzeXczQ9kV41
+- **Musculación y alimentación:** https://drive.google.com/drive/folders/10EmQvw4c-jFhNzFKmOoxkzeXczQ9kV41
+- ![[Pasted image 20231023082146.png]]![[Pasted image 20231023082351.png]]
