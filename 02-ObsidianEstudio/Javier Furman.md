@@ -1,0 +1,19 @@
+- # ¿Sientes Inflamación cuando comes? ¡Te estás intoxicando sin saberlo! | AL FINAL MI PÓCIMA MÁGICA 🤫 https://youtu.be/wNLxbf-vcew?si=qjez59KLeBhwsw7p
+- Hay problemas derivados con las piezas dentales que faltan , la forma de masticar , las amalgamas que contienen plomo y mercurio, este genera gases y pasa al esófago y al estomago 
+- Si no esta bien masticado el estomago no puede cumplir con su función y pierde acidez
+- y el proceso sigue sin poder realizarse y así va pasando por los distintos órganos intestino , colon y terminan transformando la microbiota intestinal , da lugar al SIBO Sobrecrecimiento bacteriano del intestino delgado, se va producir una disbiosis, y se empieza a dañar el intestino generando una hiper permeabilidad intestinal
+- se infecta el sistema metabólico generando una endotoxemia
+- la inflamación se produce porque no podemos eliminar las toxinas 
+-  mas alimentos menos productos refinados 
+- evitar la carne quemada , preferir cocinarla al vapor , las crostas de la carne son cancerígenas
+- comer carne en el día , no en la noche
+- pastas con harinas prohibidos
+- pastas sin tacc, acompañado con manteca o aceite oliva 
+- El pescado es la mejor opción de carne azul o salmón, condimentados con cúrcuma o pimienta negra
+- comer antes de las 8 de la noche
+- aceite de oliva extra virgen prensado en frio , cuando mas oscuro el recipiente mejor porque se evita la oxidación y agregar Tomillo, orégano, cilantro ,albaca y un diente de ajo se puede agregar a las comidas o tomar una cucharadita a la mañana y otra a la noche 
+- --------
+- # ⚠️ PÓLIPOS INTESTINALES, el mejor amigo del CÁNCER DE COLON ¡Vence y previene A TIEMPO!
+- https://youtu.be/zLF5XoyrExw?si=JHJ_0g5jagtqMB-y
+- los pólipos intestinales son la mayor expresión del cáncer de colon
+- los pólipos tienen que ver con la mala alimentación, el sedentarismo, fallas en los ámbitos medioambientales, mal descanso, estrés , problemas psicoemocionales  

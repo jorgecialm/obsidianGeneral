@@ -1,1 +1,0 @@
-https://www.notion.so/Jorge-044900f6258d4763aa6542d973678944?pvs=4

@@ -54,3 +54,20 @@
 - **Pone en practica haciente**:https://drive.google.com/drive/folders/10EmQvw4c-jFhNzFKmOoxkzeXczQ9kV41
 - **Musculación y alimentación:** https://drive.google.com/drive/folders/10EmQvw4c-jFhNzFKmOoxkzeXczQ9kV41
 - ![[Pasted image 20231023082146.png]]![[Pasted image 20231023082351.png]]
+ **Medita**  https://drive.google.com/file/d/114ZFpssRTjY1sZWQfHCCtgLBQYKVL1wS/view?usp=drive_link
+
+**Atrae mas abundancia gratitud** https://drive.google.com/drive/folders/10EmQvw4c-jFhNzFKmOoxkzeXczQ9kV41
+
+**Ideas de menú** https://drive.google.com/drive/folders/11rbD-Ii6LqN2YCT7UovDSjo1DhsVrAKo?usp=drive_link
+
+**Listados de alimentos** https://drive.google.com/drive/folders/1eAJQWr4BLd7F7fG8I5rVRyDxeJP_kPce?usp=drive_link
+
+#### Modulo 4: https://drive.google.com/drive/folders/117G_9ShIpgMncw81M-IawYyMaA_F8fx2
+
+- Vamos te acompaño https://drive.google.com/file/d/11I5CMwHe4b3ljS1nSITfEI_IaHHBmblv/view?usp=drive_link
+- Audios recordatorios https://drive.google.com/drive/folders/1aoXqQ6laqPeJAbpYJhsGl_MPqLUFmAdE?usp=drive_link
+- Mod4-Audios https://drive.google.com/drive/folders/1aoXqQ6laqPeJAbpYJhsGl_MPqLUFmAdE?usp=drive_link
+
+#### Modulo 5: https://drive.google.com/drive/folders/11Iop1z_rikUrzXtNY3646uo3hTrWTTHQ?usp=drive_link
+- Actividad física algunos conceptos https://drive.google.com/drive/folders/11Iop1z_rikUrzXtNY3646uo3hTrWTTHQ
+- Quema grasa desde tu sillón  https://drive.google.com/drive/folders/11Iop1z_rikUrzXtNY3646uo3hTrWTTHQ

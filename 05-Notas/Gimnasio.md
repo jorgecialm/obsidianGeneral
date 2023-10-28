@@ -1,0 +1,1 @@
+- El día 18/10/23 empecé nuevamente el gimnasio

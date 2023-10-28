@@ -1,4 +1,4 @@
-**Indice de la nota**
+**Índice de la nota**
 
 - [[#Primer semana|Primer semana]]
 - [[#Segunda semana|Segunda semana]]
@@ -6,6 +6,7 @@
 - [[#Cuarta semana|Cuarta semana]]
 - [[#Quinta semana|Quinta semana]]
 - [[#Ejercicios con mancuernas|Ejercicios con mancuernas]]
+- [[Gimnasio]]
 
 
 
@@ -26,7 +27,9 @@
 | 21/9/23  | 95.2 kg | 94.8 kg  |
 | 28/9/23  | 94.2 kg | 94.3 kg  |
 | 5/10/23  | 95.1 kg | 93.8 kg  |
-| 19/10/23 | 95.6 kg | 92.8 kg         |
+| 19/10/23 | 95.6 kg | 92.8 kg  |
+| 26/10/23 | 94.7 kg | 94.2 kg  |
+|          |         |          |
 
 -----
 #### Primer semana
