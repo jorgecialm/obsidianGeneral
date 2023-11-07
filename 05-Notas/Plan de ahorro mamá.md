@@ -24,3 +24,7 @@ Cuenta débito: CA $ 0502/01141113/45
 Cuenta crédito: CA $ 0502/01141113/45
 Sujeto a impuestos y sellados provinciales.
 (S.E.U.O.)
+
+
+----------
+- Todo queda anotado en notion 

@@ -15,7 +15,7 @@
 - El mes de **Agosto de 2023   pague $ 222808.67
 - pague la ultima cuota de **Electroworld por $ 1611.05
 - veremos el próximo mes 
-[[resumen_cuenta_visa_Jul_2023.pdf]]
+[[obsidian/04-ObsidianFinanzas/TARJETAS DE CREDITO/Jul-23/resumen_cuenta_visa_Jul_2023.pdf]]
 
 ##### Septiembre de 2023
 - Este mes pago la ultima cuota de rg por $ 29666.66

@@ -1,2 +1,0 @@
-- armar en notion seguimiento de hábitos
-- https://www.notion.so/Habitos-diarios-db205e04d45e48b2bfff1d396cb6884f
