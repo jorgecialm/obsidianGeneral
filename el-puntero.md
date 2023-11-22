@@ -1,0 +1,36 @@
+## El puntero
+
+- capitulo 6  https://www.youtube.com/watch?v=8OG15Rf2L3M&ab_channel=eltrece
+- capitulo 7 https://www.youtube.com/watch?v=w2Y1zM72JoM&ab_channel=eltrece
+- capitulo 8 https://www.youtube.com/watch?v=B_2AULlPiPw&ab_channel=eltrece
+- capitulo 9 https://www.youtube.com/watch?v=raOqjc2JBqE&t=1501s&ab_channel=eltrece
+- capitulo 10 https://www.youtube.com/watch?v=nXXI38yvzGY&ab_channel=eltrece
+- capitulo 11 https://www.youtube.com/watch?v=JauyG9xY1Lk&t=9s&ab_channel=eltrece
+- capitulo 12 https://www.youtube.com/watch?v=yuK3_tlUfU0&ab_channel=eltrece
+- capitulo 13 https://www.youtube.com/watch?v=C6F83dyZXQQ&ab_channel=eltrece
+- capitulo 14 https://www.youtube.com/watch?v=v9YF3QHhUzk&ab_channel=eltrece
+- capitulo 15 https://www.youtube.com/watch?v=ZqM29fep7A8&ab_channel=eltrece
+- capitulo 16
+- capitulo 17
+- capitulo 18 
+- capitulo 19
+- capitulo 20
+- capitulo 21
+- capitulo 22
+- capitulo 23
+- capitulo 24
+- capitulo 25 https://www.youtube.com/watch?v=aJ13e6r3NeE&t=2032s&ab_channel=eltrece
+- capitulo 26 https://www.youtube.com/watch?v=ujcrtK1tEGI&ab_channel=eltrece
+- capitulo 27 https://www.youtube.com/watch?v=tJA7rt_0DFA&ab_channel=eltrece
+- capitulo 28 https://www.youtube.com/watch?v=q3g6sE7qhaQ&ab_channel=eltrece
+- capitulo 29 https://www.youtube.com/watch?v=fMTTVmKU8ds&ab_channel=eltrece
+- capitulo 30 https://youtu.be/ZqO-xIiWRXc
+- capitulo 31
+- capitulo 32 https://www.youtube.com/watch?v=OlnHBclr4r4&t=1286s&ab_channel=eltrece
+- capitulo 33 https://www.youtube.com/watch?v=j1qhfynqSOQ&ab_channel=eltrece
+- capitulo 34 https://www.youtube.com/watch?v=FNyVxjD42Zk
+- capitulo 35 https://www.youtube.com/watch?v=WPX2S2kkJO0
+- capitulo 36
+- capitulo 37 https://www.youtube.com/watch?v=4pbotQkUz14&t=15s
+- capitulo 38 https://www.youtube.com/watch?v=91RbJrI6pRY&t=2s
+- capitulo 39 https://www.youtube.com/watch?v=SjVJ8FADurk
