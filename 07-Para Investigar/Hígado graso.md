@@ -1,0 +1,7 @@
+- la vitamina C y E ayudan a controlar el hígado graso
+- Los vegetales crucíferos los que crecen sobre la tierra y son bajitos, crudos o al vapor 
+- frutas con cascara 
+- pomelo
+- ajo crudo
+- cúrcuma, pimienta
+- café 
