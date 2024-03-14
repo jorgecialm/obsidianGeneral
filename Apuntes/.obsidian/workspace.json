@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "c199f4a1034111f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ff13c12b0f5b02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b937a5637438a3be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 pasos para mejorar la productividad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d7e4d656f5dd7ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magnesio.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae6f4ff526cb3bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8dffa2524e99356",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5350daea2af4a45c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47bbb448068b0a99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f040ef6054bd413",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "05db1a7b23503883",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba8df7b6a3576b70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a995b8515ae227",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Magnesio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9aafad84e78ebc9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Magnesio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e91e09943979e623",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf2abac2863f2af7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Magnesio.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2d7e4d656f5dd7ff",
+  "lastOpenFiles": [
+    "5 pasos para mejorar la productividad.md",
+    "Magnesio.md",
+    "Imagenes/Adobe Scan 22 nov 2023 (1).pdf",
+    "Imagenes/Adobe Scan 22 nov 2023.pdf",
+    "Pasted image 20231122153725.png",
+    "Pasted image 20231122153714.png",
+    "Pasted image 20231122153656.png",
+    "Pasted image 20231122153438.jpg",
+    "Imagenes"
+  ]
+}

@@ -1,0 +1,50 @@
+- Lunes 
+	- Desayuno
+		- Magnesio
+	- Almuerzo
+	- Merienda
+		- Magnesio
+	- Cena
+- Martes
+	- Desayuno
+		- Magnesio
+	- Almuerzo
+	- Merienda
+		- Magnesio
+	- Cena
+- Miércoles
+	- Desayuno
+		- Magnesio
+	- Almuerzo
+	- Merienda
+		- Magnesio
+	- Cena
+- Jueves 
+	- Desayuno
+		- Magnesio
+	- Almuerzo
+	- Merienda
+		- Magnesio
+	- Cena
+- Viernes
+	- Desayuno
+		- Magnesio
+	- Almuerzo
+	- Merienda
+		- Magnesio
+	- Cena
+- Sábado
+	- Desayuno
+		- Magnesio
+	- Almuerzo
+	- Merienda
+		- Magnesio
+	- Cena
+- Domingo
+	- Desayuno
+		- Magnesio
+	- Almuerzo
+	- Merienda
+		- Magnesio
+	- Cena
+

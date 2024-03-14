@@ -1,0 +1,1 @@
+- de materiales hay 161000 $ de gastos , falta saber la mano de obra 

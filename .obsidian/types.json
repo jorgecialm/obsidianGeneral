@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Fecha": "date",
+    "Publicado": "checkbox",
+    "Estado :": "multitext",
+    "Dia de entrenamiento:": "number",
+    "Numero": "number"
+  }
+}

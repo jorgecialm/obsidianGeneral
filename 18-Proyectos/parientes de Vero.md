@@ -1,0 +1,5 @@
+- En los primeros días de enero mientras estoy de licencia me voy para la casa de ellos
+- Los únicos gastos serian de :
+	- Combustible y peaje 
+	- comida 
+	- entradas a las termas 

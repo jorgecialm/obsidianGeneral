@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "f8c1ccda2508b1dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "0348756b94fc687b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa5990bbe89afe0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fa08f1de73d8910",
+    "type": "split",
+    "children": [
+      {
+        "id": "8202464189bc20a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c18f8eeabb7065",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88c9d61659cc410d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d0bf6c5dca4bfb16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2259e45814c8412a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f754880e1472e96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a18edcbc62c15ecb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "322de3095f04836a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42bfd7ab40e5f8d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4259976d89587692",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "f28f33645eb71e4c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29ea842806545303",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "dbfolder:Crear una nueva tabla de base de datos": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "f28f33645eb71e4c",
+  "lastOpenFiles": [
+    "Pasted image 20240226221122.jpg",
+    "Pasted image 20240226221118.jpg",
+    "Tabla de medidas/Tabla de medidas.md",
+    "2024-03-08.md",
+    "2024-02-28.md",
+    "2024-02-14.md",
+    "01-Archivos/Semana de 19-2-24 al 25-2-24.md",
+    "01-Archivos",
+    "Recetas/Pan de semillas.md",
+    "Recetas/Pan de nube.md",
+    "02-Adjuntos/WhatsApp Video 2024-02-18 at 12.02.34.mp4",
+    "02-Adjuntos/Pasted image 20240219070141.jpg",
+    "2024-W08.md",
+    "02-Adjuntos/Pasted image 20240219070123.jpg",
+    "Recetas",
+    "02-Adjuntos/Lista de compras 1° semana.md",
+    "Sin título.md",
+    "02-Adjuntos/IMG-20231120-WA0010.jpg",
+    "Tablas notion db folder/recetas/Arroz.md",
+    "2023/Mapa mental menu/tpl.menú de la semana.md",
+    "2023/Fechas/2023-11-13.md",
+    "2023/Fechas/2023-10-29.md",
+    "2023",
+    "2024",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Menu.md",
+    "2023/01-menus semanales/NOv23/Imagen de WhatsApp 2023-11-04 a las 12.18.07_5a45de47.jpg",
+    "2023/01-menus semanales/NOv23/1.md",
+    "Tareas/Tareas.md",
+    "02-Adjuntos/Imagen de WhatsApp 2023-10-29 a las 13.41.52_a2cf5ed4.jpg",
+    "2023/01-menus semanales/NOv23/Untitled note 1.md",
+    "2023/01-menus semanales/NOv23/Untitled note.md",
+    "Keto.md",
+    "Recetas.md",
+    "2023/01-menus semanales/NOv23",
+    "02-Adjuntos/Video de WhatsApp 2023-10-29 a las 15.12.52_f7f61210.mp4",
+    "2023-11-07.md",
+    "2023/01-menus semanales/NOv23/Menú semana 1 desde 6-10-23 al 12-10-23.md",
+    "Menu semanal/menú del 6-11-23 al 12-11-23.md",
+    "02-Adjuntos/Video de WhatsApp 2023-10-29 a las 15.07.13_545ac030.mp4",
+    "02-Adjuntos/Imagen de WhatsApp 2023-10-29 a las 13.54.01_ad1f3435.jpg",
+    "02-Adjuntos/Imagen de WhatsApp 2023-10-29 a las 13.54.01_ab4396c3.jpg",
+    "02-Adjuntos/Imagen de WhatsApp 2023-10-29 a las 13.54.01_a2521e88.jpg",
+    "2023/01-menus semanales",
+    "Tablas notion db folder/recetas/Rcetas.md",
+    "Tablas notion db folder/recetas"
+  ]
+}

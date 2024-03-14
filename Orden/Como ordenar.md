@@ -1,0 +1,6 @@
+- Empiezo por la ropa 
+- cosas de librería 
+- Depurar y buscar lugar a la ropa de invierno dejar solo unas prendas
+	- sobre todo las camperas 
+- usar la caja de zapatos para guardar los micrófonos
+- 

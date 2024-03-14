@@ -1,0 +1,1 @@
+![[Imagen de WhatsApp 2023-10-29 a las 13.53.26_2fcd3266.jpg]]![[Imagen de WhatsApp 2023-10-29 a las 13.54.01_ad1f3435.jpg]]![[Imagen de WhatsApp 2023-10-29 a las 13.54.01_a2521e88.jpg]]![[Imagen de WhatsApp 2023-10-29 a las 13.54.01_ab4396c3.jpg]]

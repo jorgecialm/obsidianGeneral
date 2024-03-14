@@ -1,0 +1,7 @@
+- A los 200000 km tengo que hacer el cambio de correa de distribución
+- el valor de los repuestos es de $ 240000
+- El valor de la mano de obra es de $ 90000
+- Todo es en efectivo 
+- le tuve que pedir un préstamo a mi mama de $ 330000
+- Ya le di  a Javier $ 240000 el día 4/1/24
+- 

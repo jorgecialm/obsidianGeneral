@@ -1,0 +1,3 @@
+- Primera de las decisiones que debería tomar es si sigo trabajando o arreglo 
+- Si arreglo , tengo aproximadamente 1 año para estudiar y conseguir trabajo
+- si no sigo y espero el momento para irme 

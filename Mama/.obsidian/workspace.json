@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "65baf875cb773460",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9cd703309094adc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01dc9f5120c7941d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mama/03-Tareas/Tareas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c12ad03896c61333",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab45cdd91a051866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f9c09e9b7e9c530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c9691aaee651e5a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4263f3dfd82784ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e41cc9126d0905e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "dce2ee4f6ed527cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c21951486ac28c96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mama/03-Tareas/Tareas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e4fb957ddb75d38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mama/03-Tareas/Tareas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee9f516a0670a273",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ad0e0c22811202f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mama/03-Tareas/Tareas.md"
+              }
+            }
+          },
+          {
+            "id": "8400b8a011c741d2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "01dc9f5120c7941d",
+  "lastOpenFiles": [
+    "Mama/04-Proximos Turnos/2024-02-06.md",
+    "Mama/02-HistoriaClinica/Historia clínica.md",
+    "Mama/04-Proximos Turnos",
+    "Mama/02-HistoriaClinica",
+    "Mama/Nueva carpeta",
+    "Mama/01-Fechas/2024-01-22.md",
+    "Mama/03-Tareas/Tareas.md",
+    "Mama/02-Historia clínica.md",
+    "Mama/03-Tareas",
+    "Mama/medicación.md",
+    "Mama/01-Fechas",
+    "Mama/nueva medica de cabecera a partir de Feb-24.md",
+    "Mama/hematólogo.md",
+    "Mama/Historia mama.odt",
+    "Mama/No me quiero ir.odt",
+    "Mama/medico de cabecera Molina.md",
+    "Mama/Imagen de WhatsApp 2024-01-22 a las 09.31.59_b6f834b0.jpg",
+    "Historia clínica.md",
+    "Mama",
+    "Imagen de WhatsApp 2024-01-22 a las 09.31.59_b6f834b0.jpg",
+    "hematólogo.md",
+    "nueva medica de cabecera.md",
+    "medico de cabecera Molina.md"
+  ]
+}
