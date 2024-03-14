@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Notas/Porque quiero bajar de peso.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eaea0475bcd4bf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05-Notas/Porque quiero bajar de peso.md",
-                "mode": "source",
+                "file": "Tareas.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Notas/Porque quiero bajar de peso.md",
+                "file": "Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Notas/Porque quiero bajar de peso.md",
+                "file": "Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Notas/Porque quiero bajar de peso.md"
+                "file": "Tareas.md"
               }
             }
           },
@@ -172,7 +159,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -181,14 +170,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
@@ -202,8 +192,36 @@
       "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "6eaea0475bcd4bf8",
+  "active": "59d71b284718e6bd",
   "lastOpenFiles": [
+    "José.md",
+    "realizado.md",
+    "Algoritmo del dia.md",
+    "Compras.md",
+    "Hoy.md",
+    "13-02-24.md",
+    "Mama/02-HistoriaClinica/Historia clínica.md",
+    "03-ObsidianArte/No me quiero ir.pdf",
+    "Mama/Mama/lu18509evvf1.tmp",
+    "Mama/02-HistoriaClinica/Historia mama.pdf",
+    "Mama/Mama/lu18363euiia.tmp",
+    "Mama/01-Fechas/2024-01-22.md",
+    "13-LETRAS DE CANCIONES/Como hacer para Olvidar.pdf",
+    "03-ObsidianArte/CANTO/Canciones de Jorge Rojas.md",
+    "02-ObsidianEstudio/Introducción a las base de datos.md",
+    "02-ObsidianEstudio/Java Poo.pdf",
+    "02-ObsidianEstudio/lu18193era54.tmp",
+    "02-ObsidianEstudio/Curso termux.md",
+    "02-ObsidianEstudio/Curso git - GitHub.md",
+    "02-ObsidianEstudio/COACHING NUTRICIONAL/Curso coaching nutricional.md",
+    "01-ObsidianDiario/Notas de como usar git obsidian.md",
+    "01-ObsidianDiario/Índice.md",
+    "02-ObsidianEstudio/Poo con Java.md",
+    "01-ObsidianDiario/Imagen de WhatsApp 2023-11-10 a las 09.46.19_17f883ae.jpg",
+    "01-ObsidianDiario/2023/Dic23/2023-12-09.md",
+    "01-ObsidianDiario/2024/Ene",
+    "01-ObsidianDiario/2024",
+    "01-ObsidianDiario/2024/Ene/11-02-24.md",
     "05-Notas/Porque como tanto.md",
     "05-Notas/Porque quiero bajar de peso.md",
     "05-Notas/Objetivos.md",
@@ -213,33 +231,6 @@
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-22.md",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-21.md",
     "01-ObsidianDiario/2023-09-20.md",
-    "01-ObsidianDiario/SALUD/Ejercicios Mancuernas.md",
-    "01-ObsidianDiario/2023-10-03.md",
-    "01-ObsidianDiario/2023-09-19.md",
-    "01-ObsidianDiario/2023-09-18.md",
-    "04-ObsidianFinanzas/FINANZAS/Septiembre de 2023.md",
-    "04-ObsidianFinanzas/FINANZAS/Mapa mental.md",
-    "01-ObsidianDiario/SALUD/Oftalmología.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-12.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-11.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-07.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-08-31.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-08-24.md",
-    "01-ObsidianDiario/SALUD/Descenso de peso.md",
-    "01-ObsidianDiario/MEDICACION/Sertralina.md",
-    "02-ObsidianEstudio/CURSOS/todocode/Introducción a las base de datos.md",
-    "02-ObsidianEstudio/CURSOS/SniferL4bs/Curso de Obsidian/Temario.md",
-    "02-ObsidianEstudio/CAMBIA HOY 2023/Curso para bajar de peso.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-28.md",
-    "01-ObsidianDiario/ADJUNTOS/LETRAS DE CANCIONES/Ojos azules.pdf",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/Resumen27_07_2023.pdf",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/_ComprobantePago (1).pdf",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/_ComprobantePago.pdf",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/resumen_cuenta_visa_Ago23.pdf",
-    "04-ObsidianFinanzas/TARJETAS DE CREDITO/Ago-23/CencosudAgo23.pdf",
-    "04-ObsidianFinanzas/resumen_cuenta_visa_Jul_2023.pdf",
-    "04-ObsidianFinanzas/30717033872_006_00001_00000616.pdf",
-    "01-ObsidianDiario/ADJUNTOS/Factura silla de barra.pdf",
     "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
     "Imagenes/huella.gif",
@@ -248,7 +239,6 @@
     "Imagenes/SharedScreenshot.jpg",
     "Imagenes/GATO CUYANO.jpg",
     "Imagenes/Escondido.gif",
-    "Imagenes/Chacarera_simple.png",
-    "Imagenes/Chacarera_doble.png"
+    "Imagenes/Chacarera_simple.png"
   ]
 }
