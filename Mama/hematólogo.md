@@ -1,0 +1,6 @@
+- González Vucovick Matías
+- Días de atención viernes desde la 10:30 hs
+- También atiende por pami en santa clara ex **maría mater**
+- El valor de la consulta es  $ 5000
+- Teléfono 1136002601
+-----
