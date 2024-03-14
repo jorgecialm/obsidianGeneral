@@ -4,22 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "43e619792cffbd20",
+        "id": "8163cb00514cdf79",
         "type": "tabs",
         "children": [
           {
-            "id": "59d71b284718e6bd",
+            "id": "053261e56c1a4e9c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "calibre-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "10ebc45f24a61736",
+            "type": "leaf",
+            "state": {
+              "type": "image",
               "state": {
-                "file": "Mama/03-Tareas/Tareas.md",
-                "mode": "preview",
-                "source": false
+                "file": "DietaKeto/menu 11-3-24 a 17-3-24.jpg"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mama/03-Tareas/Tareas.md",
+                "file": "DietaKeto/menu 11-3-24 a 17-3-24.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mama/03-Tareas/Tareas.md",
+                "file": "DietaKeto/menu 11-3-24 a 17-3-24.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mama/03-Tareas/Tareas.md"
+                "file": "DietaKeto/menu 11-3-24 a 17-3-24.jpg"
               }
             }
           },
@@ -192,8 +199,9 @@
       "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "59d71b284718e6bd",
+  "active": "10ebc45f24a61736",
   "lastOpenFiles": [
+    "Mama/03-Tareas/Tareas.md",
     "Mama/02-HistoriaClinica/Historia clínica.md",
     "Mama/02-HistoriaClinica/Historia mama.pdf",
     "Mama/01-Fechas/2024-01-22.md",
