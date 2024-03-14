@@ -11,9 +11,11 @@
             "id": "59d71b284718e6bd",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf"
+                "file": "Mama/03-Tareas/Tareas.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf",
+                "file": "Mama/03-Tareas/Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf",
+                "file": "Mama/03-Tareas/Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf"
+                "file": "Mama/03-Tareas/Tareas.md"
               }
             }
           },
@@ -192,6 +194,10 @@
   },
   "active": "59d71b284718e6bd",
   "lastOpenFiles": [
+    "Mama/02-HistoriaClinica/Historia clínica.md",
+    "Mama/02-HistoriaClinica/Historia mama.pdf",
+    "Mama/01-Fechas/2024-01-22.md",
+    "Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf",
     "Libros/El Poder del Metabolismo (Frank Suarez) (Z-Library).pdf",
     "05-NOTAS/Algoritmo del dia.md",
     "05-NOTAS/José.md",
@@ -200,12 +206,9 @@
     "Compras.md",
     "Hoy.md",
     "01-ObsidianDiario/13-02-24.md",
-    "Mama/02-HistoriaClinica/Historia clínica.md",
     "03-ObsidianArte/No me quiero ir.pdf",
     "Mama/Mama/lu18509evvf1.tmp",
-    "Mama/02-HistoriaClinica/Historia mama.pdf",
     "Mama/Mama/lu18363euiia.tmp",
-    "Mama/01-Fechas/2024-01-22.md",
     "13-LETRAS DE CANCIONES/Como hacer para Olvidar.pdf",
     "03-ObsidianArte/CANTO/Canciones de Jorge Rojas.md",
     "02-ObsidianEstudio/Introducción a las base de datos.md",
@@ -220,14 +223,12 @@
     "01-ObsidianDiario/Imagen de WhatsApp 2023-11-10 a las 09.46.19_17f883ae.jpg",
     "01-ObsidianDiario/2023/Dic23/2023-12-09.md",
     "01-ObsidianDiario/2024/Ene",
-    "01-ObsidianDiario/2024",
     "01-ObsidianDiario/2024/Ene/11-02-24.md",
     "05-Notas/Porque como tanto.md",
     "05-Notas/Porque quiero bajar de peso.md",
     "05-Notas/Objetivos.md",
     "01-ObsidianDiario/2023-09-23.md",
     "Índice.md",
-    "05-Notas",
     "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-22.md",
     "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
