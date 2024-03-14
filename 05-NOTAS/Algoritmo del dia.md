@@ -1,0 +1,11 @@
+- Que es lo mas importante del día ?
+- Que es lo mas urgente ?
+- Tengo algún turno?
+- Tengo alguna actividad hoy ?
+- Como es mi semana ?
+- Que es lo que indica el menú del día de hoy ?
+	- Tengo todos los ingredientes ?
+	- Tengo el tiempo para preparar todo ?
+- Hay algún vencimiento hoy?
+- Salimos algún lado ?
+- Tengo tiempo para estudiar ?
