@@ -1,7 +1,0 @@
----
-"Estado :":
-  - Pendiente
----
-
-Ingredientes
-preparación
