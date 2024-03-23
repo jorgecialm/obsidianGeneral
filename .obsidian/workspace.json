@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8163cb00514cdf79",
+        "id": "d7efac3694349e93",
         "type": "tabs",
         "children": [
           {
-            "id": "053261e56c1a4e9c",
+            "id": "93627cd019f3ef36",
             "type": "leaf",
             "state": {
               "type": "calibre-view",
@@ -16,12 +16,14 @@
             }
           },
           {
-            "id": "10ebc45f24a61736",
+            "id": "3cbd3dc61e57edd5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DietaKeto/menu 11-3-24 a 17-3-24.jpg"
+                "file": "DietaKeto/Recetas/Pan de semillas.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DietaKeto/menu 11-3-24 a 17-3-24.jpg",
+                "file": "DietaKeto/Recetas/Pan de semillas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DietaKeto/menu 11-3-24 a 17-3-24.jpg",
+                "file": "DietaKeto/Recetas/Pan de semillas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DietaKeto/menu 11-3-24 a 17-3-24.jpg"
+                "file": "DietaKeto/Recetas/Pan de semillas.md"
               }
             }
           },
@@ -199,8 +201,12 @@
       "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "10ebc45f24a61736",
+  "active": "3cbd3dc61e57edd5",
   "lastOpenFiles": [
+    "DietaKeto/menu de 18-3 al 24-3-24.jpg",
+    "DietaKeto/Pasted image 20240319095406.jpg",
+    "10-LINKS/Links.md",
+    "DietaKeto/01-Archivos/menu 11-3-24 a 17-3-24.jpg",
     "Mama/03-Tareas/Tareas.md",
     "Mama/02-HistoriaClinica/Historia clínica.md",
     "Mama/02-HistoriaClinica/Historia mama.pdf",
@@ -236,16 +242,12 @@
     "05-Notas/Porque quiero bajar de peso.md",
     "05-Notas/Objetivos.md",
     "01-ObsidianDiario/2023-09-23.md",
-    "Índice.md",
-    "01-ObsidianDiario/ANOTACIONES DIARIAS/2023-09-22.md",
     "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
     "Imagenes/huella.gif",
     "Imagenes/gato.gif",
     "Imagenes/coreografia-zambajpg.webp",
     "Imagenes/SharedScreenshot.jpg",
-    "Imagenes/GATO CUYANO.jpg",
-    "Imagenes/Escondido.gif",
-    "Imagenes/Chacarera_simple.png"
+    "Imagenes/GATO CUYANO.jpg"
   ]
 }

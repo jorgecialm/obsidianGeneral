@@ -18,4 +18,8 @@
 - Descargar gratis PDF cursos, manuales y formación de Programación - página 1 https://www.pdf-manual.es/programacion/
 - JavaYa https://www.tutorialesprogramacionya.com/javaya/index.php?inicio=80
 - Tutoriales Programación Aprende a programar de cero https://tutorialesprogramacion.com/
-- 
+- Para investigar :
+	- crisipo
+	- zenon
+	- cleantes
+	- herilo
