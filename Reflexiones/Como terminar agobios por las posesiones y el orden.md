@@ -1,0 +1,1 @@
+- Tener solamente las cosas que necesito y uso 

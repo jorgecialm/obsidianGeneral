@@ -1,5 +1,0 @@
----
-Dificultad: Dificil
-Etiquetas:
-  - Terminado
----

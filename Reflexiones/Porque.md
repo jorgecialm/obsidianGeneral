@@ -1,0 +1,3 @@
+- Porque me pone de mal humor ver quejarse a mi esposa de que le duele, de que no puede , de que se levanta doblada?
+- Porque me molesta que no podamos ir a la casa de unos amigos por no se siente bien ?
+- Porque no me gusta que se haga problemas de antemano, y que viva lamentando cosas del pasado y no se enfoque en el tiempo presente ?

@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d7efac3694349e93",
+        "id": "5e1e9a7c9c899497",
         "type": "tabs",
         "children": [
           {
-            "id": "93627cd019f3ef36",
+            "id": "bbe17c0dfcc31969",
             "type": "leaf",
             "state": {
               "type": "calibre-view",
               "state": {}
             }
-          },
-          {
-            "id": "3cbd3dc61e57edd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DietaKeto/Recetas/Pan de semillas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ab16caa88de57fd3",
@@ -94,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DietaKeto/Recetas/Pan de semillas.md",
+                "file": "Reflexiones/Todos los días.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DietaKeto/Recetas/Pan de semillas.md",
+                "file": "Reflexiones/Todos los días.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DietaKeto/Recetas/Pan de semillas.md"
+                "file": "Reflexiones/Todos los días.md"
               }
             }
           },
@@ -201,18 +189,27 @@
       "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "3cbd3dc61e57edd5",
+  "active": "bbe17c0dfcc31969",
   "lastOpenFiles": [
+    "Reflexiones/Todos los días.md",
+    "Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf",
+    "Libros/El Poder del Metabolismo (Frank Suarez) (Z-Library).pdf",
+    "Reflexiones/Porque.md",
+    "Reflexiones/Como terminar agobios por las posesiones y el orden.md",
     "DietaKeto/menu de 18-3 al 24-3-24.jpg",
+    "Recetas/papa.md",
+    "Recetas/Gym.md",
+    "Recetas/dia.md",
+    "Recetas/cafe keto.md",
+    "Recetas/Arroz.md",
     "DietaKeto/Pasted image 20240319095406.jpg",
+    "DietaKeto/Recetas/Pan de semillas.md",
     "10-LINKS/Links.md",
     "DietaKeto/01-Archivos/menu 11-3-24 a 17-3-24.jpg",
     "Mama/03-Tareas/Tareas.md",
     "Mama/02-HistoriaClinica/Historia clínica.md",
     "Mama/02-HistoriaClinica/Historia mama.pdf",
     "Mama/01-Fechas/2024-01-22.md",
-    "Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf",
-    "Libros/El Poder del Metabolismo (Frank Suarez) (Z-Library).pdf",
     "05-NOTAS/Algoritmo del dia.md",
     "05-NOTAS/José.md",
     "Tareas.md",
@@ -231,23 +228,13 @@
     "02-ObsidianEstudio/Curso termux.md",
     "02-ObsidianEstudio/Curso git - GitHub.md",
     "02-ObsidianEstudio/COACHING NUTRICIONAL/Curso coaching nutricional.md",
-    "01-ObsidianDiario/Notas de como usar git obsidian.md",
-    "01-ObsidianDiario/Índice.md",
-    "02-ObsidianEstudio/Poo con Java.md",
     "01-ObsidianDiario/Imagen de WhatsApp 2023-11-10 a las 09.46.19_17f883ae.jpg",
-    "01-ObsidianDiario/2023/Dic23/2023-12-09.md",
     "01-ObsidianDiario/2024/Ene",
-    "01-ObsidianDiario/2024/Ene/11-02-24.md",
-    "05-Notas/Porque como tanto.md",
-    "05-Notas/Porque quiero bajar de peso.md",
-    "05-Notas/Objetivos.md",
-    "01-ObsidianDiario/2023-09-23.md",
     "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
     "Imagenes/huella.gif",
     "Imagenes/gato.gif",
     "Imagenes/coreografia-zambajpg.webp",
-    "Imagenes/SharedScreenshot.jpg",
-    "Imagenes/GATO CUYANO.jpg"
+    "Imagenes/SharedScreenshot.jpg"
   ]
 }
