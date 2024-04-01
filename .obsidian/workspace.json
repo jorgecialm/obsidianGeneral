@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5e1e9a7c9c899497",
+        "id": "03e9c6aa8a9d115a",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe17c0dfcc31969",
+            "id": "25df3743446700da",
             "type": "leaf",
             "state": {
-              "type": "calibre-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notas/15-SALUD/Oftalmología.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ab16caa88de57fd3",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reflexiones/Todos los días.md",
+                "file": "Notas/15-SALUD/Oftalmología.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reflexiones/Todos los días.md",
+                "file": "Notas/15-SALUD/Oftalmología.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reflexiones/Todos los días.md"
+                "file": "Notas/15-SALUD/Oftalmología.md"
               }
             }
           },
@@ -189,13 +192,29 @@
       "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "bbe17c0dfcc31969",
+  "active": "25df3743446700da",
   "lastOpenFiles": [
-    "Reflexiones/Todos los días.md",
-    "Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf",
-    "Libros/El Poder del Metabolismo (Frank Suarez) (Z-Library).pdf",
-    "Reflexiones/Porque.md",
-    "Reflexiones/Como terminar agobios por las posesiones y el orden.md",
+    "Indice.md",
+    "Notas/15-SALUD/Curso para bajar de peso.md",
+    "Notas/18-Proyectos/distribución del auto.md",
+    "Notas/BDControlPastillas/Clonazepan.md",
+    "Notas/BDControlPastillas/Sertralina.md",
+    "BDControlPastillas/Toma de pastillas.md",
+    "Notas/Mama/02-HistoriaClinica/Historia mama.pdf",
+    "Notas/Orden/Inventario de ropa.md",
+    "Notas/Orden/Como ordenar.md",
+    "Orden.md",
+    "Notas.md",
+    "05-NOTAS/Reflexiones.md",
+    "Notas",
+    "07-Para Investigar/Lactoferrina.md",
+    "07-Para Investigar/Hígado sobrecargado.md",
+    "07-Para Investigar/Claves.md",
+    "Notas/Reflexiones/Todos los días.md",
+    "Notas/Libros/Metabolismo Ultra Poderoso por Frank Suarez (Frank Suarez [Suarez, Frank]) (Z-Library).pdf",
+    "Notas/Libros/El Poder del Metabolismo (Frank Suarez) (Z-Library).pdf",
+    "Notas/Reflexiones/Porque.md",
+    "Notas/Reflexiones/Como terminar agobios por las posesiones y el orden.md",
     "DietaKeto/menu de 18-3 al 24-3-24.jpg",
     "Recetas/papa.md",
     "Recetas/Gym.md",
@@ -206,30 +225,15 @@
     "DietaKeto/Recetas/Pan de semillas.md",
     "10-LINKS/Links.md",
     "DietaKeto/01-Archivos/menu 11-3-24 a 17-3-24.jpg",
-    "Mama/03-Tareas/Tareas.md",
-    "Mama/02-HistoriaClinica/Historia clínica.md",
-    "Mama/02-HistoriaClinica/Historia mama.pdf",
-    "Mama/01-Fechas/2024-01-22.md",
-    "05-NOTAS/Algoritmo del dia.md",
-    "05-NOTAS/José.md",
-    "Tareas.md",
-    "realizado.md",
-    "Compras.md",
-    "Hoy.md",
-    "01-ObsidianDiario/13-02-24.md",
+    "Notas/Mama/03-Tareas/Tareas.md",
+    "Notas/Mama/02-HistoriaClinica/Historia clínica.md",
     "03-ObsidianArte/No me quiero ir.pdf",
     "Mama/Mama/lu18509evvf1.tmp",
     "Mama/Mama/lu18363euiia.tmp",
     "13-LETRAS DE CANCIONES/Como hacer para Olvidar.pdf",
-    "03-ObsidianArte/CANTO/Canciones de Jorge Rojas.md",
-    "02-ObsidianEstudio/Introducción a las base de datos.md",
     "02-ObsidianEstudio/Java Poo.pdf",
     "02-ObsidianEstudio/lu18193era54.tmp",
-    "02-ObsidianEstudio/Curso termux.md",
-    "02-ObsidianEstudio/Curso git - GitHub.md",
-    "02-ObsidianEstudio/COACHING NUTRICIONAL/Curso coaching nutricional.md",
     "01-ObsidianDiario/Imagen de WhatsApp 2023-11-10 a las 09.46.19_17f883ae.jpg",
-    "01-ObsidianDiario/2024/Ene",
     "Imagenes/zamba03.webp",
     "Imagenes/rueda Alimentacion.gif",
     "Imagenes/huella.gif",
